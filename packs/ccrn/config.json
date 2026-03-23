@@ -1,0 +1,112 @@
+{
+  "examId": "ccrn",
+  "brandName": "Code Blue Press",
+  "theme": "dark",
+  "logoPath": "../packs/ccrn/assets/logo.png?v=2",
+  "accessPassword": "CCRN2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "ccrn",
+      "label": "Adult CCRN",
+      "timeMin": 150,
+      "examQuestions": 125,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "ccrn_exam_01.json",
+        "ccrn_exam_02.json",
+        "ccrn_exam_03.json",
+        "ccrn_exam_04.json",
+        "ccrn_exam_05.json",
+        "ccrn_exam_06.json",
+        "ccrn_exam_07.json",
+        "ccrn_exam_08.json",
+        "ccrn_exam_09.json",
+        "ccrn_exam_10.json",
+        "ccrn_exam_11.json",
+        "ccrn_exam_12.json",
+        "ccrn_exam_13.json",
+        "ccrn_exam_14.json",
+        "ccrn_exam_15.json",
+        "ccrn_exam_16.json",
+        "ccrn_exam_17.json"
+      ]
+    }
+  ],
+  "printables": [
+    {
+      "label": "CCRN Practice Exam 1",
+      "file": "CCRN_Exam_01.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 2",
+      "file": "CCRN_Exam_02.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 3",
+      "file": "CCRN_Exam_03.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 4",
+      "file": "CCRN_Exam_04.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 5",
+      "file": "CCRN_Exam_05.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 6",
+      "file": "CCRN_Exam_06.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 7",
+      "file": "CCRN_Exam_07.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 8",
+      "file": "CCRN_Exam_08.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 9",
+      "file": "CCRN_Exam_09.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 10",
+      "file": "CCRN_Exam_10.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 11",
+      "file": "CCRN_Exam_11.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 12",
+      "file": "CCRN_Exam_12.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 13",
+      "file": "CCRN_Exam_13.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 14",
+      "file": "CCRN_Exam_14.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 15",
+      "file": "CCRN_Exam_15.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 16",
+      "file": "CCRN_Exam_16.pdf"
+    },
+    {
+      "label": "CCRN Practice Exam 17",
+      "file": "CCRN_Exam_17.pdf"
+    }
+  ]
+}

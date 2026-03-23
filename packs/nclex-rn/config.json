@@ -1,0 +1,77 @@
+{
+  "examId": "nclex-rn",
+  "brandName": "NCLEX-RN Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/nclex-rn/assets/logo.jpg?v=1",
+  "accessPassword": "NCLEXRN2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "nclex-rn",
+      "label": "NCLEX-RN",
+      "timeMin": 300,
+      "examQuestions": 125,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "nclex_exam_01.json",
+        "nclex_exam_02.json",
+        "nclex_exam_03.json",
+        "nclex_exam_04.json",
+        "nclex_exam_05.json",
+        "nclex_exam_06.json",
+        "nclex_exam_07.json",
+        "nclex_exam_08.json",
+        "nclex_exam_09.json",
+        "nclex_exam_10.json"
+      ]
+    }
+  ],
+  "printables": [
+    {
+      "label": "NCLEX-RN Practice Exam 1",
+      "file": "NCLEX_EXAM_01.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 2",
+      "file": "NCLEX_EXAM_02.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 3",
+      "file": "NCLEX_EXAM_03.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 4",
+      "file": "NCLEX_EXAM_04.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 5",
+      "file": "NCLEX_EXAM_05.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 6",
+      "file": "NCLEX_EXAM_06.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 7",
+      "file": "NCLEX_EXAM_07.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 8",
+      "file": "NCLEX_EXAM_08.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 9",
+      "file": "NCLEX_EXAM_09.pdf"
+    },
+    {
+      "label": "NCLEX-RN Practice Exam 10",
+      "file": "NCLEX_EXAM_10.pdf"
+    }
+  ]
+}

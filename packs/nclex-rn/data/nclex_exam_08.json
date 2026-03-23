@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "NCLEX-RN8-001",
+    "prompt": "A client admitted with chest discomfort says, \"The pressure started while I was watching television and is moving into my neck.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Obtain a 12-lead ECG",
+      "B": "Offer the client a snack",
+      "C": "Teach the client about risk factors for coronary artery disease",
+      "D": "Assist the client to the bathroom"
+    },
+    "correct": "A",
+    "explanation": "Chest discomfort radiating to the neck requires immediate evaluation for acute ischemia, and a 12-lead ECG is a priority first action. \"Teach the client about risk factors for coronary artery disease\" is appropriate later, but it delays urgent assessment."
+  },
+  {
+    "id": "NCLEX-RN8-002",
+    "prompt": "A client with heart failure has crackles, 2+ ankle edema, and an oxygen saturation of 89% on room air. Which prescription should the nurse implement first?",
+    "choices": {
+      "A": "Administer the prescribed intravenous diuretic",
+      "B": "Encourage increased oral fluid intake",
+      "C": "Place the client flat in bed",
+      "D": "Hold all routine cardiac medications"
+    },
+    "correct": "A",
+    "explanation": "Crackles, edema, and low oxygen saturation indicate fluid overload in heart failure, so prompt diuresis is appropriate. \"Encourage increased oral fluid intake\" is the tempting wrong option because it would worsen congestion."
+  },
+  {
+    "id": "NCLEX-RN8-003",
+    "prompt": "A client taking digoxin reports nausea and seeing yellow-green halos around lights. Which finding should the nurse report first?",
+    "choices": {
+      "A": "Apical pulse 50/min",
+      "B": "Blood pressure 134/76 mm Hg",
+      "C": "Respiratory rate 18/min",
+      "D": "Temperature 98.7°F (37.1°C)"
+    },
+    "correct": "A",
+    "explanation": "Nausea, visual halos, and bradycardia strongly suggest digoxin toxicity and require prompt reporting. \"Blood pressure 134/76 mm Hg\" is not the most concerning finding in this scenario."
+  },
+  {
+    "id": "NCLEX-RN8-004",
+    "prompt": "A client with atrial fibrillation is prescribed warfarin. Which statement by the client indicates correct understanding of home care?",
+    "choices": {
+      "A": "\"I will use an electric razor when shaving.\"",
+      "B": "\"I can take ibuprofen for muscle aches.\"",
+      "C": "\"I should stop the medication if I notice bruising.\"",
+      "D": "\"I no longer need blood tests once I feel better.\""
+    },
+    "correct": "A",
+    "explanation": "This reduces bleeding risk and reflects correct warfarin teaching. \"I can take ibuprofen for muscle aches.\" is the tempting wrong option because NSAIDs increase bleeding risk."
+  },
+  {
+    "id": "NCLEX-RN8-005",
+    "prompt": "A client 2 hours after femoral cardiac catheterization reports sudden back pain and dizziness. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the puncture site and vital signs",
+      "B": "Raise the head of the bed to 90 degrees",
+      "C": "Ambulate the client in the room",
+      "D": "Offer the client oral fluids"
+    },
+    "correct": "A",
+    "explanation": "Sudden back pain and dizziness after femoral catheterization may indicate retroperitoneal bleeding or hemorrhage, so immediate assessment is required. \"Raise the head of the bed to 90 degrees\" is unsafe because it may worsen bleeding and hypotension."
+  },
+  {
+    "id": "NCLEX-RN8-006",
+    "prompt": "A client with infective endocarditis develops a temperature of 103°F (39.4°C), confusion, and blood pressure of 84/48 mm Hg. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider or rapid response team immediately",
+      "B": "Offer cool compresses and reassess in 30 minutes",
+      "C": "Encourage the client to drink ice water",
+      "D": "Teach the client about antibiotic therapy"
+    },
+    "correct": "A",
+    "explanation": "Fever, hypotension, tachycardia, and confusion suggest severe deterioration such as sepsis and require urgent escalation. \"Offer cool compresses and reassess in 30 minutes\" is unsafe because it delays treatment."
+  },
+  {
+    "id": "NCLEX-RN8-007",
+    "prompt": "A client taking furosemide and digoxin has a potassium level of 2.8 mEq/L. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider because the client is at risk for dysrhythmia",
+      "B": "Administer the scheduled digoxin dose first",
+      "C": "Encourage the client to ambulate in the hallway",
+      "D": "Offer the client a low-sodium snack"
+    },
+    "correct": "A",
+    "explanation": "Severe hypokalemia in a client taking furosemide and digoxin creates a high risk for dysrhythmias and digoxin toxicity. \"Administer the scheduled digoxin dose first\" is unsafe because low potassium increases digoxin sensitivity."
+  },
+  {
+    "id": "NCLEX-RN8-008",
+    "prompt": "Which statement by a client with chronic stable angina indicates correct understanding of nitroglycerin sublingual tablets?",
+    "choices": {
+      "A": "\"I will sit down before taking a tablet.\"",
+      "B": "\"I will store the tablets in a weekly pill organizer.\"",
+      "C": "\"I should swallow the tablet with water if I am in a hurry.\"",
+      "D": "\"I can keep the tablets in my bathroom cabinet.\""
+    },
+    "correct": "A",
+    "explanation": "Nitroglycerin can cause rapid hypotension and dizziness, so sitting first helps prevent falls. \"I will store the tablets in a weekly pill organizer.\" is wrong because nitroglycerin should remain in its original container to preserve potency."
+  },
+  {
+    "id": "NCLEX-RN8-009",
+    "prompt": "A client with peripheral arterial disease asks what to do when leg pain occurs during walking. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Stop and rest, then continue walking when the pain eases.\"",
+      "B": "\"Elevate your legs above your heart when the pain starts.\"",
+      "C": "\"Apply heat directly to the painful area before walking.\"",
+      "D": "\"Avoid all walking to prevent worsening the condition.\""
+    },
+    "correct": "A",
+    "explanation": "Intermittent walking improves collateral circulation in peripheral arterial disease. \"Elevate your legs above your heart when the pain starts.\" is the tempting wrong option because elevation may worsen arterial perfusion."
+  },
+  {
+    "id": "NCLEX-RN8-010",
+    "prompt": "A client with chronic venous insufficiency has a shallow ulcer over the medial ankle and lower-leg swelling. Which intervention should the nurse include in the plan of care?",
+    "choices": {
+      "A": "Elevate the legs when sitting",
+      "B": "Keep the legs dependent throughout the day",
+      "C": "Apply a heating pad directly to the ulcer",
+      "D": "Restrict walking as much as possible"
+    },
+    "correct": "A",
+    "explanation": "Antihypertensives are taken regularly to maintain long-term control, not just when readings are elevated. \"You should stop the medication as soon as your blood pressure is normal.\" is unsafe because it may lead to rebound hypertension or loss of control."
+  },
+  {
+    "id": "NCLEX-RN8-011",
+    "prompt": "A client prescribed lisinopril says, \"My blood pressure is better now, so I don't think I need this medication anymore.\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"The medication works best when taken consistently, even when the readings improve.\"",
+      "B": "\"You should stop the medication as soon as your blood pressure is normal.\"",
+      "C": "\"Take the medication only on days when you feel stressed.\"",
+      "D": "\"This medication is meant to be used only for a few weeks.\""
+    },
+    "correct": "A",
+    "explanation": "A pulse of 54/min is bradycardic, and beta blockers can worsen it, so the dose should be held. \"Give the medication as prescribed\" ignores a key safety parameter."
+  },
+  {
+    "id": "NCLEX-RN8-012",
+    "prompt": "A client taking metoprolol has an apical pulse of 54/min before the morning dose. Which action should the nurse take?",
+    "choices": {
+      "A": "Hold the medication and notify the provider",
+      "B": "Give the medication as prescribed",
+      "C": "Give half of the prescribed dose",
+      "D": "Instruct the client to walk and recheck the pulse in 1 hour"
+    },
+    "correct": "A",
+    "explanation": "A marked platelet drop during heparin therapy suggests HIT, which can cause dangerous thrombosis despite thrombocytopenia. \"Increase the heparin rate to prevent clotting\" is unsafe because it may worsen the condition."
+  },
+  {
+    "id": "NCLEX-RN8-013",
+    "prompt": "A client with a new pacemaker asks what activity should be limited for the next few weeks. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Avoid lifting the arm on the affected side above shoulder height.\"",
+      "B": "\"Keep the arm completely immobile for 3 months.\"",
+      "C": "\"Use the arm for heavy lifting to prevent stiffness.\"",
+      "D": "\"Sleep only on the side of the pacemaker.\""
+    },
+    "correct": "A",
+    "explanation": "Limiting arm elevation helps prevent pacemaker lead displacement during early healing. \"Keep the arm completely immobile for 3 months.\" is overly restrictive and not the best teaching."
+  },
+  {
+    "id": "NCLEX-RN8-014",
+    "prompt": "A client says, \"I took sildenafil this morning,\" and now reports chest pain. Which action is most important for the nurse to take?",
+    "choices": {
+      "A": "Hold nitroglycerin and notify the provider",
+      "B": "Administer sublingual nitroglycerin immediately",
+      "C": "Encourage the client to drink water",
+      "D": "Place the client flat in bed"
+    },
+    "correct": "A",
+    "explanation": "Sildenafil and nitroglycerin together can cause profound hypotension, so nitroglycerin must be withheld. \"Administer sublingual nitroglycerin immediately\" is the most dangerous distractor."
+  },
+  {
+    "id": "NCLEX-RN8-015",
+    "prompt": "Which client should the nurse assess first?",
+    "choices": {
+      "A": "A client with heart failure who is coughing up pink frothy sputum",
+      "B": "A client with hypertension who asks about low-sodium foods",
+      "C": "A client with chronic venous insufficiency requesting lotion",
+      "D": "A client with hyperlipidemia asking when to take a statin"
+    },
+    "correct": "A",
+    "explanation": "Pink frothy sputum suggests acute pulmonary edema and requires immediate assessment. \"A client with hyperlipidemia asking when to take a statin\" is nonurgent."
+  },
+  {
+    "id": "NCLEX-RN8-016",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced assistive personnel (UAP)?",
+    "choices": {
+      "A": "Obtain daily weights for a stable client with heart failure",
+      "B": "Teach a client about signs of bleeding with anticoagulants",
+      "C": "Assess a client who reports sudden chest pressure",
+      "D": "Interpret an irregular heart rhythm on telemetry"
+    },
+    "correct": "A",
+    "explanation": "Daily weights are routine data collection and are appropriate for UAP when the client is stable. \"Assess a client who reports sudden chest pressure\" requires RN assessment and cannot be delegated."
+  },
+  {
+    "id": "NCLEX-RN8-017",
+    "prompt": "A client with asthma is sitting upright, using accessory muscles, and speaking in one-word responses. Which action should the nurse take first?",
+    "choices": {
+      "A": "Administer the prescribed rescue bronchodilator",
+      "B": "Encourage the client to drink warm fluids",
+      "C": "Teach the client how to use a spacer",
+      "D": "Ask the client to cough deeply"
+    },
+    "correct": "A",
+    "explanation": "Severe acute asthma with one-word speech requires immediate bronchodilation to improve airflow. \"Teach the client how to use a spacer\" is important later but not the first intervention."
+  },
+  {
+    "id": "NCLEX-RN8-018",
+    "prompt": "A client with chronic obstructive pulmonary disease becomes short of breath while eating dinner. Which nursing intervention is best?",
+    "choices": {
+      "A": "Encourage pursed-lip breathing",
+      "B": "Place the client flat after the meal",
+      "C": "Increase oxygen to 15 L/min by nonrebreather mask",
+      "D": "Tell the client to finish the meal quickly"
+    },
+    "correct": "A",
+    "explanation": "Pursed-lip breathing reduces air trapping and can relieve dyspnea in COPD. \"Increase oxygen to 15 L/min by nonrebreather mask\" is not the best first action and may be inappropriate without further assessment."
+  },
+  {
+    "id": "NCLEX-RN8-019",
+    "prompt": "A client with pneumonia suddenly becomes restless and confused. Which assessment should the nurse perform first?",
+    "choices": {
+      "A": "Check the oxygen saturation",
+      "B": "Review the number of bowel movements today",
+      "C": "Ask what the client ate for lunch",
+      "D": "Determine whether the client slept well last night"
+    },
+    "correct": "A",
+    "explanation": "Sudden confusion in pneumonia often reflects hypoxemia, so oxygenation is the first priority to assess. \"Review the number of bowel movements today\" does not address the likely cause of the acute change."
+  },
+  {
+    "id": "NCLEX-RN8-020",
+    "prompt": "A client receiving continuous tube feeding begins coughing and has a wet-sounding voice. Which action should the nurse take first?",
+    "choices": {
+      "A": "Stop the feeding and assess for aspiration",
+      "B": "Flush the tube with water",
+      "C": "Increase the feeding rate",
+      "D": "Place the client flat in bed"
+    },
+    "correct": "A",
+    "explanation": "Coughing and a wet voice during tube feeding suggest aspiration, so feeding must stop immediately. \"Flush the tube with water\" is unsafe because it increases gastric volume while aspiration is suspected."
+  },
+  {
+    "id": "NCLEX-RN8-021",
+    "prompt": "A child with suspected epiglottitis is drooling and sitting forward with the neck extended. Which action should the nurse take first?",
+    "choices": {
+      "A": "Keep the child calm and avoid inspecting the throat",
+      "B": "Use a tongue blade to examine the airway",
+      "C": "Place the child supine for assessment",
+      "D": "Offer the child juice to drink"
+    },
+    "correct": "A",
+    "explanation": "Suspected epiglottitis can deteriorate rapidly if the child is agitated or the throat is examined. \"Use a tongue blade to examine the airway\" is unsafe because it can trigger complete obstruction."
+  },
+  {
+    "id": "NCLEX-RN8-022",
+    "prompt": "A client with a tracheostomy becomes anxious, and the oxygen saturation drops from 97% to 86%. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the tracheostomy for obstruction",
+      "B": "Remove the tracheostomy ties",
+      "C": "Deflate the cuff immediately",
+      "D": "Offer the client oral fluids"
+    },
+    "correct": "A",
+    "explanation": "Anxiety and a sudden drop in oxygen saturation suggest airway compromise, and patency of the tracheostomy must be checked first. \"Deflate the cuff immediately\" is unsafe without first identifying the cause."
+  },
+  {
+    "id": "NCLEX-RN8-023",
+    "prompt": "A client with suspected pulmonary tuberculosis is admitted from the emergency department. Which action should the nurse take first?",
+    "choices": {
+      "A": "Place the client in a negative-pressure room",
+      "B": "Use droplet precautions only",
+      "C": "Assign the client to a semiprivate room",
+      "D": "Keep the client in the hallway until the provider arrives"
+    },
+    "correct": "A",
+    "explanation": "Suspected pulmonary tuberculosis requires airborne isolation immediately to prevent transmission. \"Use droplet precautions only\" is insufficient for TB."
+  },
+  {
+    "id": "NCLEX-RN8-024",
+    "prompt": "A postoperative client has diminished breath sounds at the bases and a temperature of 100.2°F (37.9°C). Which nursing action is most appropriate?",
+    "choices": {
+      "A": "Encourage use of the incentive spirometer",
+      "B": "Restrict coughing due to incision pain",
+      "C": "Keep the client on bed rest",
+      "D": "Hold the prescribed analgesic"
+    },
+    "correct": "A",
+    "explanation": "Low-grade fever and diminished breath sounds after surgery suggest atelectasis, and incentive spirometry is a key first intervention. \"Restrict coughing due to incision pain\" is the tempting wrong option because it increases pulmonary complication risk."
+  },
+  {
+    "id": "NCLEX-RN8-025",
+    "prompt": "A client with severe asthma has almost no audible air movement and no wheezing is heard. Which interpretation by the nurse is most important?",
+    "choices": {
+      "A": "The client may have life-threatening airway obstruction",
+      "B": "The asthma exacerbation is improving",
+      "C": "The client is having only an anxiety reaction",
+      "D": "The bronchodilator has already worked"
+    },
+    "correct": "A",
+    "explanation": "A silent chest means there is critically reduced airflow, which is an ominous sign in severe asthma. \"The asthma exacerbation is improving\" is a dangerous misinterpretation."
+  },
+  {
+    "id": "NCLEX-RN8-026",
+    "prompt": "A client with a pulmonary embolism is receiving heparin and reports coughing up bright red blood. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the amount of bleeding and review coagulation results",
+      "B": "Increase the heparin infusion rate",
+      "C": "Encourage the client to walk in the hallway",
+      "D": "Offer the client a warm drink"
+    },
+    "correct": "A",
+    "explanation": "Bright red hemoptysis while receiving heparin may indicate bleeding, so the severity and anticoagulation status must be evaluated first. \"Increase the heparin infusion rate\" is unsafe because it may worsen bleeding."
+  },
+  {
+    "id": "NCLEX-RN8-027",
+    "prompt": "A client using home oxygen says, \"My nose gets dry, so I put petroleum jelly inside it.\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Do not use petroleum-based products with oxygen.\"",
+      "B": "\"That is a good way to prevent dryness.\"",
+      "C": "\"Increase the oxygen flow rate when your nose gets dry.\"",
+      "D": "\"It is safe as long as the oxygen is turned off first.\""
+    },
+    "correct": "A",
+    "explanation": "Petroleum-based products are a fire hazard and should not be used with oxygen therapy. \"That is a good way to prevent dryness.\" is the tempting wrong option because it sounds practical but is unsafe."
+  },
+  {
+    "id": "NCLEX-RN8-028",
+    "prompt": "A client has a chest tube connected to suction. Continuous bubbling is noted in the water-seal chamber. Which action should the nurse take first?",
+    "choices": {
+      "A": "Check the system for an air leak",
+      "B": "Clamp the chest tube",
+      "C": "Raise the drainage chamber above chest level",
+      "D": "Disconnect the suction tubing"
+    },
+    "correct": "A",
+    "explanation": "Continuous bubbling in the water-seal chamber usually indicates an air leak that should be traced first. \"Clamp the chest tube\" is unsafe because clamping can cause a tension pneumothorax."
+  },
+  {
+    "id": "NCLEX-RN8-029",
+    "prompt": "A client who had a bronchoscopy 1 hour ago asks for something to drink. Which action should the nurse take first?",
+    "choices": {
+      "A": "Check for return of the gag reflex",
+      "B": "Offer small sips of water",
+      "C": "Give the client a clear liquid tray",
+      "D": "Help the client ambulate to the chair"
+    },
+    "correct": "A",
+    "explanation": "Oral intake after bronchoscopy is withheld until the gag reflex returns to reduce aspiration risk. \"Offer small sips of water\" is unsafe before airway protection is confirmed."
+  },
+  {
+    "id": "NCLEX-RN8-030",
+    "prompt": "A client with chronic obstructive pulmonary disease is receiving 2 L/min oxygen by nasal cannula and has an oxygen saturation of 90%. Which action is most appropriate?",
+    "choices": {
+      "A": "Continue to monitor because this may be an acceptable target",
+      "B": "Remove the oxygen because the saturation is too high",
+      "C": "Increase oxygen to 10 L/min immediately",
+      "D": "Instruct the client to hold the breath with each inhalation"
+    },
+    "correct": "A",
+    "explanation": "Many clients with COPD have an acceptable oxygen saturation target of about 88% to 92%. \"Increase oxygen to 10 L/min immediately\" is excessive and not the best first response."
+  },
+  {
+    "id": "NCLEX-RN8-031",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced LPN/LVN?",
+    "choices": {
+      "A": "Reinforce teaching on coughing and deep breathing to a stable postoperative client",
+      "B": "Assess a client with new hemoptysis",
+      "C": "Interpret arterial blood gas results",
+      "D": "Develop the plan of care for a client with pneumonia"
+    },
+    "correct": "A",
+    "explanation": "Reinforcing established teaching for a stable client is appropriate for an experienced LPN/LVN. \"Assess a client with new hemoptysis\" requires RN assessment because it may signal acute deterioration."
+  },
+  {
+    "id": "NCLEX-RN8-032",
+    "prompt": "A client with type 1 diabetes is awake, shaky, and diaphoretic. The blood glucose level is 48 mg/dL. Which action should the nurse take first?",
+    "choices": {
+      "A": "Give 15 g of rapid-acting carbohydrate",
+      "B": "Administer the scheduled insulin",
+      "C": "Recheck the glucose in 2 hours",
+      "D": "Offer a sugar-free drink"
+    },
+    "correct": "A",
+    "explanation": "An awake client with symptomatic hypoglycemia needs rapid carbohydrate immediately. \"Offer a sugar-free drink\" does not treat the low blood glucose."
+  },
+  {
+    "id": "NCLEX-RN8-033",
+    "prompt": "A client with diabetic ketoacidosis has a blood glucose of 512 mg/dL and a potassium level of 3.1 mEq/L. Which action is most important for the nurse to anticipate?",
+    "choices": {
+      "A": "Potassium replacement before increasing insulin therapy",
+      "B": "Restriction of all IV fluids",
+      "C": "Immediate oral nutrition",
+      "D": "Administration of a sodium-restricted diet"
+    },
+    "correct": "A",
+    "explanation": "Insulin shifts potassium into cells, so worsening hypokalemia is a major risk if potassium is not corrected first. \"Restriction of all IV fluids\" is unsafe because DKA requires aggressive fluid therapy."
+  },
+  {
+    "id": "NCLEX-RN8-034",
+    "prompt": "A client with hyperosmolar hyperglycemic state is lethargic, has a blood pressure of 82/44 mm Hg, and has dry mucous membranes. Which action should the nurse anticipate first?",
+    "choices": {
+      "A": "Initiate prescribed intravenous isotonic fluids",
+      "B": "Administer an oral hypoglycemic agent",
+      "C": "Encourage the client to ambulate",
+      "D": "Restrict oral fluids"
+    },
+    "correct": "A",
+    "explanation": "Hyperosmolar hyperglycemic state causes severe dehydration and hypoperfusion, making fluids the first priority. \"Administer an oral hypoglycemic agent\" is inappropriate in this emergency."
+  },
+  {
+    "id": "NCLEX-RN8-035",
+    "prompt": "A client with syndrome of inappropriate antidiuretic hormone secretion has a sodium level of 118 mEq/L and reports a severe headache. Which intervention should the nurse implement first?",
+    "choices": {
+      "A": "Institute seizure precautions",
+      "B": "Encourage oral water intake",
+      "C": "Offer a low-sodium meal",
+      "D": "Place the client flat in bed"
+    },
+    "correct": "A",
+    "explanation": "Severe hyponatremia with headache places the client at high risk for seizures, so safety is the first priority. \"Encourage oral water intake\" would worsen the hyponatremia."
+  },
+  {
+    "id": "NCLEX-RN8-036",
+    "prompt": "A client with adrenal insufficiency is weak, vomiting, and has a blood pressure of 86/44 mm Hg. Which action should the nurse take first?",
+    "choices": {
+      "A": "Initiate prescribed intravenous fluids",
+      "B": "Restrict sodium intake",
+      "C": "Encourage increased activity",
+      "D": "Delay corticosteroids until after meals"
+    },
+    "correct": "A",
+    "explanation": "Vomiting, weakness, and severe hypotension in adrenal insufficiency suggest adrenal crisis with volume depletion, requiring immediate fluid support. \"Restrict sodium intake\" is unsafe because sodium and volume are often depleted."
+  },
+  {
+    "id": "NCLEX-RN8-037",
+    "prompt": "A client with hyperthyroidism becomes restless, febrile, and tachycardic. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider immediately about possible thyroid storm",
+      "B": "Encourage ambulation to lower anxiety",
+      "C": "Provide a heating pad for comfort",
+      "D": "Reassess in 2 hours"
+    },
+    "correct": "A",
+    "explanation": "Fever, restlessness, and tachycardia in hyperthyroidism suggest thyroid storm, which is life threatening. \"Encourage ambulation to lower anxiety\" is inappropriate because exertion increases metabolic stress."
+  },
+  {
+    "id": "NCLEX-RN8-038",
+    "prompt": "A client receiving chemotherapy has an absolute neutrophil count of 360/mm3. Which nursing action is priority?",
+    "choices": {
+      "A": "Implement neutropenic precautions",
+      "B": "Place fresh flowers in the room",
+      "C": "Encourage raw vegetables from home",
+      "D": "Schedule the client for group activities"
+    },
+    "correct": "A",
+    "explanation": "An ANC of 360/mm3 reflects severe neutropenia and high infection risk. \"Place fresh flowers in the room\" is unsafe because they can carry pathogens."
+  },
+  {
+    "id": "NCLEX-RN8-039",
+    "prompt": "A client receiving chemotherapy has a platelet count of 18,000/mm3. Which intervention should the nurse include in the plan of care?",
+    "choices": {
+      "A": "Use a soft toothbrush and electric razor",
+      "B": "Perform rectal temperatures every 4 hours",
+      "C": "Administer intramuscular injections as needed",
+      "D": "Encourage vigorous flossing after meals"
+    },
+    "correct": "A",
+    "explanation": "Severe thrombocytopenia requires bleeding precautions that reduce mucosal and skin trauma. \"Perform rectal temperatures every 4 hours\" is unsafe because rectal procedures can cause bleeding."
+  },
+  {
+    "id": "NCLEX-RN8-040",
+    "prompt": "A client with upper gastrointestinal bleeding reports dizziness and weakness and has black, tarry stools. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess vital signs and signs of hypovolemia",
+      "B": "Offer clear liquids",
+      "C": "Encourage walking to the bathroom",
+      "D": "Administer a laxative"
+    },
+    "correct": "A",
+    "explanation": "Weakness, dizziness, and melena suggest significant blood loss and possible instability, so hemodynamic assessment comes first. \"Offer clear liquids\" delays appropriate evaluation."
+  },
+  {
+    "id": "NCLEX-RN8-041",
+    "prompt": "A client with cirrhosis becomes increasingly confused and begins picking at the bed linens. Which medication does the nurse anticipate administering?",
+    "choices": {
+      "A": "Lactulose",
+      "B": "Loperamide",
+      "C": "Diphenhydramine",
+      "D": "Ibuprofen"
+    },
+    "correct": "A",
+    "explanation": "Increasing confusion and picking behavior in cirrhosis suggest hepatic encephalopathy, and lactulose helps lower ammonia. \"Diphenhydramine\" is tempting for restlessness but can worsen sedation and confusion."
+  },
+  {
+    "id": "NCLEX-RN8-042",
+    "prompt": "A client with acute pancreatitis asks why eating is not allowed right now. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Eating stimulates the pancreas and can worsen inflammation.\"",
+      "B": "\"You will not be able to digest food again.\"",
+      "C": "\"The restriction is only because you have IV fluids.\"",
+      "D": "\"Avoiding food prevents blood loss.\""
+    },
+    "correct": "A",
+    "explanation": "Restricting oral intake helps rest the pancreas during acute pancreatitis. \"The restriction is only because you have IV fluids.\" is inaccurate and incomplete."
+  },
+  {
+    "id": "NCLEX-RN8-043",
+    "prompt": "A client with a small bowel obstruction has nausea, abdominal distention, and an NG tube to suction. Which finding requires immediate nursing action?",
+    "choices": {
+      "A": "No NG drainage with worsening nausea",
+      "B": "Dry lips",
+      "C": "Hypoactive bowel sounds",
+      "D": "Temperature of 99.3°F (37.4°C)"
+    },
+    "correct": "A",
+    "explanation": "Worsening nausea with absent NG drainage suggests the tube may be obstructed or nonfunctional. \"Dry lips\" are expected with suction and are less urgent."
+  },
+  {
+    "id": "NCLEX-RN8-044",
+    "prompt": "A client with acute kidney injury has a potassium level of 6.3 mEq/L. Which finding should the nurse report immediately?",
+    "choices": {
+      "A": "Peaked T waves on the ECG",
+      "B": "Dry, itchy skin",
+      "C": "Blood pressure 146/88 mm Hg",
+      "D": "Mild ankle edema"
+    },
+    "correct": "A",
+    "explanation": "Hyperkalemia with ECG changes is a life-threatening emergency because lethal dysrhythmias can occur. \"Dry, itchy skin\" is common in kidney disease but not the immediate priority."
+  },
+  {
+    "id": "NCLEX-RN8-045",
+    "prompt": "A client with a newly created arteriovenous fistula says, \"I don't feel the buzzing in my arm anymore.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the fistula and notify the provider",
+      "B": "Reassure the client that the thrill often stops temporarily",
+      "C": "Place a blood pressure cuff on that arm",
+      "D": "Encourage the client to sleep on the access arm"
+    },
+    "correct": "A",
+    "explanation": "Loss of the thrill may indicate access occlusion, which threatens dialysis access and needs prompt evaluation. \"Reassure the client that the thrill often stops temporarily\" is unsafe because a functioning fistula should have a thrill."
+  },
+  {
+    "id": "NCLEX-RN8-046",
+    "prompt": "A client receiving peritoneal dialysis has cloudy outflow and abdominal tenderness. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider about possible peritonitis",
+      "B": "Increase the dwell time",
+      "C": "Wait until the next exchange before reporting",
+      "D": "Position the client flat and continue the infusion"
+    },
+    "correct": "A",
+    "explanation": "Cloudy outflow and abdominal tenderness strongly suggest peritonitis in peritoneal dialysis. \"Wait until the next exchange before reporting\" delays treatment of a potentially serious infection."
+  },
+  {
+    "id": "NCLEX-RN8-047",
+    "prompt": "A client with diabetes and peripheral neuropathy asks how to reduce the risk for foot injury. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Inspect your feet every day.\"",
+      "B": "\"Walk barefoot indoors so you can notice injuries sooner.\"",
+      "C": "\"Use a heating pad when your feet feel cold.\"",
+      "D": "\"Trim corns with a sharp razor.\""
+    },
+    "correct": "A",
+    "explanation": "Daily inspection is essential in diabetes because neuropathy may prevent recognition of injury. \"Use a heating pad when your feet feel cold.\" is unsafe because decreased sensation increases burn risk."
+  },
+  {
+    "id": "NCLEX-RN8-048",
+    "prompt": "A client 2 days after abdominal surgery reports that the incision \"opened,\" and bowel loops are visible. Which action should the nurse take first?",
+    "choices": {
+      "A": "Cover the wound with sterile saline-moistened dressings",
+      "B": "Attempt to replace the bowel into the abdomen",
+      "C": "Apply a dry dressing and observe",
+      "D": "Place the client flat with legs extended"
+    },
+    "correct": "A",
+    "explanation": "Visible bowel loops indicate evisceration, and exposed tissue must be protected from drying and contamination. \"Attempt to replace the bowel into the abdomen\" is unsafe and outside nursing scope."
+  },
+  {
+    "id": "NCLEX-RN8-049",
+    "prompt": "A client with circumferential burns to the forearm reports increasing pain and numbness in the fingers. Which finding is the priority to report?",
+    "choices": {
+      "A": "Capillary refill greater than 4 seconds in the fingers",
+      "B": "Anxiety about the appearance of the burn",
+      "C": "Temperature 99.1°F (37.3°C)",
+      "D": "Thirst"
+    },
+    "correct": "A",
+    "explanation": "Delayed capillary refill distal to a circumferential burn suggests impaired perfusion and possible need for escharotomy. \"Thirst\" is expected after burns and is not the immediate priority."
+  },
+  {
+    "id": "NCLEX-RN8-050",
+    "prompt": "A client receiving packed red blood cells reports chills, itching, and flank pain 15 minutes after the transfusion starts. Which action should the nurse take first?",
+    "choices": {
+      "A": "Stop the transfusion",
+      "B": "Slow the transfusion rate",
+      "C": "Continue the transfusion and reassess in 30 minutes",
+      "D": "Flush the blood through rapidly"
+    },
+    "correct": "A",
+    "explanation": "Chills, itching, and flank pain shortly after transfusion begins indicate a transfusion reaction, and the blood must be stopped immediately. \"Slow the transfusion rate\" is unsafe because the client remains exposed to the trigger."
+  },
+  {
+    "id": "NCLEX-RN8-051",
+    "prompt": "A client with a new ileostomy reports watery output and dizziness. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess for dehydration",
+      "B": "Encourage a high-fiber snack",
+      "C": "Tell the client the output is expected and not important",
+      "D": "Apply a heating pad to the abdomen"
+    },
+    "correct": "A",
+    "explanation": "Watery ileostomy output can rapidly cause fluid and electrolyte losses, so hydration status is the priority. \"Encourage a high-fiber snack\" is not the first response and may worsen output."
+  },
+  {
+    "id": "NCLEX-RN8-052",
+    "prompt": "A client with celiac disease asks which meal is safest to eat. Which response by the nurse is best?",
+    "choices": {
+      "A": "Baked chicken with rice",
+      "B": "Barley soup with crackers",
+      "C": "Whole-wheat pasta with vegetables",
+      "D": "Rye toast with peanut butter"
+    },
+    "correct": "A",
+    "explanation": "Rice is gluten free and appropriate for celiac disease. \"Barley soup with crackers\" is a tempting wrong option because it sounds bland, but both commonly contain gluten."
+  },
+  {
+    "id": "NCLEX-RN8-053",
+    "prompt": "A client with ulcerative colitis is having an acute flare with frequent diarrhea. Which food should the nurse recommend?",
+    "choices": {
+      "A": "Scrambled eggs",
+      "B": "Raw broccoli",
+      "C": "Bran cereal",
+      "D": "Popcorn"
+    },
+    "correct": "A",
+    "explanation": "A bland, low-residue food is appropriate during an acute ulcerative colitis flare. \"Bran cereal\" is high residue and likely to worsen diarrhea."
+  },
+  {
+    "id": "NCLEX-RN8-054",
+    "prompt": "A client taking metformin is scheduled for a CT scan with IV contrast. Which instruction should the nurse reinforce?",
+    "choices": {
+      "A": "\"Metformin may be held around the time of the contrast study.\"",
+      "B": "\"Double the metformin dose before the scan.\"",
+      "C": "\"Metformin protects your kidneys from the contrast.\"",
+      "D": "\"Take metformin only if you eat breakfast before the scan.\""
+    },
+    "correct": "A",
+    "explanation": "Metformin is often temporarily held with IV contrast because kidney injury can increase the risk of lactic acidosis. \"Double the metformin dose before the scan.\" is incorrect and unsafe."
+  },
+  {
+    "id": "NCLEX-RN8-055",
+    "prompt": "A client with diabetes asks why stopping smoking is important for a chronic foot ulcer. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Smoking decreases circulation and delays wound healing.\"",
+      "B": "\"Smoking lowers the blood glucose quickly.\"",
+      "C": "\"Smoking prevents infection in wounds.\"",
+      "D": "\"Smoking does not affect wound healing.\""
+    },
+    "correct": "A",
+    "explanation": "Smoking impairs tissue perfusion and oxygen delivery, which slows wound healing. \"Smoking prevents infection in wounds.\" is incorrect and misleading."
+  },
+  {
+    "id": "NCLEX-RN8-056",
+    "prompt": "A client with nephrotic syndrome is receiving furosemide. Which finding best indicates that the medication is effective?",
+    "choices": {
+      "A": "Decreased peripheral edema",
+      "B": "Increased frothy urine",
+      "C": "Increased urine protein",
+      "D": "New crackles in the lungs"
+    },
+    "correct": "A",
+    "explanation": "Reduced edema shows that the diuretic is effectively removing excess fluid. \"New crackles in the lungs\" would indicate worsening fluid overload, not improvement."
+  },
+  {
+    "id": "NCLEX-RN8-057",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced assistive personnel (UAP)?",
+    "choices": {
+      "A": "Measure intake and output for a stable client with chronic kidney disease",
+      "B": "Teach a client with a new colostomy how to empty the pouch",
+      "C": "Assess a diabetic foot ulcer",
+      "D": "Interpret hemoglobin results"
+    },
+    "correct": "A",
+    "explanation": "Routine intake and output is appropriate for UAP when the client is stable. \"Assess a diabetic foot ulcer\" requires nursing assessment and judgment."
+  },
+  {
+    "id": "NCLEX-RN8-058",
+    "prompt": "A client suddenly develops right facial droop and slurred speech while talking with the nurse. Which action should the nurse take first?",
+    "choices": {
+      "A": "Determine the exact time symptoms began",
+      "B": "Offer the client water",
+      "C": "Help the client to stand",
+      "D": "Reassess in 20 minutes"
+    },
+    "correct": "A",
+    "explanation": "The exact onset time is crucial for stroke treatment decisions. \"Offer the client water\" is unsafe because swallowing may be impaired."
+  },
+  {
+    "id": "NCLEX-RN8-059",
+    "prompt": "A client has a generalized tonic-clonic seizure in bed. Which action should the nurse take first?",
+    "choices": {
+      "A": "Turn the client to the side",
+      "B": "Insert a tongue blade",
+      "C": "Restrain the arms and legs",
+      "D": "Offer water after the first jerking movement"
+    },
+    "correct": "A",
+    "explanation": "Side-lying helps maintain the airway and reduce aspiration during a seizure. \"Insert a tongue blade\" is unsafe and can cause injury."
+  },
+  {
+    "id": "NCLEX-RN8-060",
+    "prompt": "A client with a head injury has a blood pressure of 182/54 mm Hg, pulse 44/min, and irregular respirations. Which interpretation by the nurse is most important?",
+    "choices": {
+      "A": "The client may have increasing intracranial pressure",
+      "B": "The client is improving neurologically",
+      "C": "The client is having a panic attack",
+      "D": "The client is sleeping comfortably"
+    },
+    "correct": "A",
+    "explanation": "Widened pulse pressure, bradycardia, and irregular respirations are classic signs of rising intracranial pressure. \"The client is improving neurologically\" is dangerously incorrect."
+  },
+  {
+    "id": "NCLEX-RN8-061",
+    "prompt": "A client with a newly applied cast reports severe pain not relieved by analgesics and pain with passive toe movement. Which complication should the nurse suspect?",
+    "choices": {
+      "A": "Compartment syndrome",
+      "B": "Osteoporosis",
+      "C": "Delayed union",
+      "D": "Venous insufficiency"
+    },
+    "correct": "A",
+    "explanation": "Severe pain out of proportion and pain with passive movement strongly suggest compartment syndrome. \"Delayed union\" does not explain these acute neurovascular findings."
+  },
+  {
+    "id": "NCLEX-RN8-062",
+    "prompt": "A client with a spinal cord injury at T6 reports a pounding headache and blurred vision. The blood pressure is 210/110 mm Hg. Which action should the nurse take first?",
+    "choices": {
+      "A": "Sit the client upright and assess for a trigger",
+      "B": "Place the client flat in bed",
+      "C": "Offer the client a meal tray",
+      "D": "Cover the client with warm blankets"
+    },
+    "correct": "A",
+    "explanation": "This presentation suggests autonomic dysreflexia, and sitting the client up helps lower blood pressure while the cause is identified. \"Place the client flat in bed\" would worsen the hypertensive crisis."
+  },
+  {
+    "id": "NCLEX-RN8-063",
+    "prompt": "A client with myasthenia gravis reports increasing difficulty swallowing and handling saliva. Which action is the nurse's priority?",
+    "choices": {
+      "A": "Assess respiratory effort and airway protection",
+      "B": "Offer the client a regular diet tray",
+      "C": "Place the client flat in bed",
+      "D": "Delay the next medication dose"
+    },
+    "correct": "A",
+    "explanation": "Worsening swallowing difficulty and inability to manage saliva may quickly lead to respiratory compromise in myasthenia gravis. \"Offer the client a regular diet tray\" is unsafe because aspiration risk is high."
+  },
+  {
+    "id": "NCLEX-RN8-064",
+    "prompt": "A client with Parkinson disease asks how to reduce aspiration risk while eating. Which instruction should the nurse provide?",
+    "choices": {
+      "A": "Sit upright and take small bites",
+      "B": "Drink thin liquids quickly",
+      "C": "Lie down after eating",
+      "D": "Avoid all foods containing protein"
+    },
+    "correct": "A",
+    "explanation": "Upright positioning and small bites reduce aspiration risk in Parkinson disease. \"Drink thin liquids quickly\" is unsafe because thin liquids are harder to control."
+  },
+  {
+    "id": "NCLEX-RN8-065",
+    "prompt": "A child with bacterial meningitis is admitted to the pediatric unit. Which infection control measure should the nurse implement?",
+    "choices": {
+      "A": "Droplet precautions",
+      "B": "Airborne precautions only",
+      "C": "Reverse isolation",
+      "D": "Standard precautions only"
+    },
+    "correct": "A",
+    "explanation": "Bacterial meningitis requires droplet precautions to reduce transmission. \"Standard precautions only\" are not sufficient."
+  },
+  {
+    "id": "NCLEX-RN8-066",
+    "prompt": "A client says, \"My family would be better off if I were dead.\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Are you thinking about hurting yourself?\"",
+      "B": "\"You should not say things like that.\"",
+      "C": "\"Why would you say that to your family?\"",
+      "D": "\"Let's talk about something more positive.\""
+    },
+    "correct": "A",
+    "explanation": "Direct suicide assessment is therapeutic and necessary when a client expresses hopelessness. \"Let's talk about something more positive.\" avoids the immediate safety issue."
+  },
+  {
+    "id": "NCLEX-RN8-067",
+    "prompt": "A client with schizophrenia says, \"The voices are telling me to hurt my roommate.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess for a plan and ensure safety",
+      "B": "Tell the client the voices are not real",
+      "C": "Leave the client alone to reduce stimulation",
+      "D": "Ask the roommate to stay with the client"
+    },
+    "correct": "A",
+    "explanation": "Command hallucinations to harm someone require immediate violence-risk assessment and protection of others. \"Tell the client the voices are not real\" does not address the urgent safety threat."
+  },
+  {
+    "id": "NCLEX-RN8-068",
+    "prompt": "A client in the manic phase of bipolar disorder is loud, intrusive, and sleeping 2 hours each night. Which nursing intervention is most appropriate?",
+    "choices": {
+      "A": "Set clear, consistent behavioral limits",
+      "B": "Offer stimulating group games",
+      "C": "Challenge the client's grandiose ideas publicly",
+      "D": "Encourage caffeine for energy regulation"
+    },
+    "correct": "A",
+    "explanation": "Calm, firm limit-setting is appropriate in mania and helps maintain safety. \"Offer stimulating group games\" is tempting because the client has energy, but extra stimulation worsens mania."
+  },
+  {
+    "id": "NCLEX-RN8-069",
+    "prompt": "A client admitted for alcohol withdrawal is anxious, diaphoretic, and tremulous. Which medication does the nurse anticipate administering?",
+    "choices": {
+      "A": "A benzodiazepine",
+      "B": "An opioid analgesic",
+      "C": "A stimulant",
+      "D": "A loop diuretic"
+    },
+    "correct": "A",
+    "explanation": "Benzodiazepines are first-line therapy for alcohol withdrawal because they reduce autonomic hyperactivity and seizure risk. \"An opioid analgesic\" does not treat withdrawal and may add harm."
+  },
+  {
+    "id": "NCLEX-RN8-070",
+    "prompt": "Which client should the nurse assess first?",
+    "choices": {
+      "A": "A client with a concussion who is becoming difficult to awaken",
+      "B": "A client with chronic back pain requesting a pillow",
+      "C": "A client with depression asking for a washcloth",
+      "D": "A client with a knee immobilizer asking for water"
+    },
+    "correct": "A",
+    "explanation": "Worsening arousability after concussion suggests neurologic deterioration and requires immediate assessment. \"A client with chronic back pain requesting a pillow\" is not urgent."
+  },
+  {
+    "id": "NCLEX-RN8-071",
+    "prompt": "A client 6 hours after lumbar surgery reports new numbness in both legs and inability to void. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider immediately",
+      "B": "Administer the prescribed opioid analgesic",
+      "C": "Encourage oral fluids",
+      "D": "Reassess at the end of the shift"
+    },
+    "correct": "A",
+    "explanation": "New bilateral numbness and inability to void after lumbar surgery may indicate serious neurologic compromise. \"Administer the prescribed opioid analgesic\" delays evaluation of a possible emergency."
+  },
+  {
+    "id": "NCLEX-RN8-072",
+    "prompt": "A client with dementia is wandering into other clients' rooms during the evening. Which intervention is most appropriate?",
+    "choices": {
+      "A": "Calmly redirect the client to the correct room",
+      "B": "Apply restraints immediately",
+      "C": "Argue with the client about the date and time",
+      "D": "Lock the client in the room"
+    },
+    "correct": "A",
+    "explanation": "Calm redirection is the safest and least restrictive first intervention for wandering in dementia. \"Apply restraints immediately\" is not first-line and may worsen agitation."
+  },
+  {
+    "id": "NCLEX-RN8-073",
+    "prompt": "A client after total hip arthroplasty is being turned in bed. Which action is most important to prevent dislocation?",
+    "choices": {
+      "A": "Use an abduction pillow",
+      "B": "Cross the client's legs",
+      "C": "Flex the hip past 90 degrees",
+      "D": "Turn the client without assistance"
+    },
+    "correct": "A",
+    "explanation": "Hip abduction helps prevent postoperative dislocation after total hip arthroplasty. \"Flex the hip past 90 degrees\" is unsafe because it increases dislocation risk."
+  },
+  {
+    "id": "NCLEX-RN8-074",
+    "prompt": "A client with Bell palsy asks how to protect the affected eye. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Use artificial tears and protect the eye from drying.\"",
+      "B": "\"Rub the eye often to stimulate tear production.\"",
+      "C": "\"Keep the eye uncovered throughout the day.\"",
+      "D": "\"Avoid blinking exercises permanently.\""
+    },
+    "correct": "A",
+    "explanation": "Bell palsy can impair eyelid closure, so corneal protection is essential. \"Keep the eye uncovered throughout the day.\" increases dryness and injury risk."
+  },
+  {
+    "id": "NCLEX-RN8-075",
+    "prompt": "A client with a new lower-leg cast asks how to reduce swelling during the first 24 hours. Which instruction should the nurse provide?",
+    "choices": {
+      "A": "Elevate the extremity above heart level",
+      "B": "Keep the extremity hanging down",
+      "C": "Insert an object into the cast to scratch itching skin",
+      "D": "Walk on the cast immediately"
+    },
+    "correct": "A",
+    "explanation": "Elevation helps reduce swelling during the first 24 hours after casting. \"Insert an object into the cast to scratch itching skin\" is unsafe because it can injure the skin."
+  },
+  {
+    "id": "NCLEX-RN8-076",
+    "prompt": "A client with expressive aphasia after a stroke becomes frustrated when trying to answer questions. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Take your time. I will stay with you while you respond.\"",
+      "B": "\"You need to calm down before we continue.\"",
+      "C": "\"I will answer for you.\"",
+      "D": "\"We can stop all communication attempts today.\""
+    },
+    "correct": "A",
+    "explanation": "This response supports communication and reduces frustration in expressive aphasia. \"I will answer for you.\" undermines the client’s participation and independence."
+  },
+  {
+    "id": "NCLEX-RN8-077",
+    "prompt": "A child with a ventriculoperitoneal shunt becomes irritable, vomits, and is difficult to arouse. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider about possible shunt malfunction",
+      "B": "Offer clear liquids",
+      "C": "Place the child in Trendelenburg position",
+      "D": "Reassure the parents that this is expected"
+    },
+    "correct": "A",
+    "explanation": "Irritability, vomiting, and decreased arousability in a child with a VP shunt suggest increased intracranial pressure from shunt malfunction. \"Offer clear liquids\" delays urgent evaluation."
+  },
+  {
+    "id": "NCLEX-RN8-078",
+    "prompt": "A client with rheumatoid arthritis asks how to protect the joints during daily activities. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Use larger joints whenever possible.\"",
+      "B": "\"Grip objects as tightly as you can.\"",
+      "C": "\"Avoid all joint movement during flares.\"",
+      "D": "\"Carry heavy objects with your fingers.\""
+    },
+    "correct": "A",
+    "explanation": "Joint protection strategies reduce stress on small inflamed joints in rheumatoid arthritis. \"Avoid all joint movement during flares.\" is too absolute and may worsen stiffness and function."
+  },
+  {
+    "id": "NCLEX-RN8-079",
+    "prompt": "A client with anorexia nervosa has a heart rate of 40/min, potassium 2.8 mEq/L, and dizziness with standing. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider about physiologic instability",
+      "B": "Encourage the client to exercise after meals",
+      "C": "Delay the report until the weekly weight is obtained",
+      "D": "Offer black coffee before breakfast"
+    },
+    "correct": "A",
+    "explanation": "Severe bradycardia, hypokalemia, and orthostatic symptoms indicate medical instability in anorexia nervosa. \"Encourage the client to exercise after meals\" is unsafe and inappropriate."
+  },
+  {
+    "id": "NCLEX-RN8-080",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced LPN/LVN?",
+    "choices": {
+      "A": "Reinforce teaching about cane use after the RN has instructed the client",
+      "B": "Perform the initial neurologic assessment of a new stroke client",
+      "C": "Evaluate suicidal risk in a depressed client",
+      "D": "Develop discharge teaching for seizure medications"
+    },
+    "correct": "A",
+    "explanation": "Reinforcement of established teaching for a stable client is appropriate for an LPN/LVN. \"Perform the initial neurologic assessment of a new stroke client\" requires RN assessment."
+  },
+  {
+    "id": "NCLEX-RN8-081",
+    "prompt": "A client admitted from a nursing home has temperature 103.1°F (39.5°C), heart rate 126/min, respiratory rate 32/min, blood pressure 78/42 mm Hg, and confusion. Which action should the nurse take first?",
+    "choices": {
+      "A": "Begin prescribed rapid intravenous fluid resuscitation",
+      "B": "Wait for blood culture results before intervening",
+      "C": "Offer oral fluids",
+      "D": "Teach the family about infection control"
+    },
+    "correct": "A",
+    "explanation": "High fever, tachycardia, hypotension, tachypnea, and confusion strongly suggest septic shock, and fluids are a priority. \"Wait for blood culture results before intervening\" is unsafe because treatment must not be delayed."
+  },
+  {
+    "id": "NCLEX-RN8-082",
+    "prompt": "A postoperative client becomes restless and confused and has temperature 101.7°F (38.7°C), blood pressure 88/50 mm Hg, and urine output 15 mL/hr. Which problem should the nurse suspect first?",
+    "choices": {
+      "A": "Sepsis with poor perfusion",
+      "B": "Expected postoperative pain",
+      "C": "Mild constipation",
+      "D": "Anxiety related to hospitalization"
+    },
+    "correct": "A",
+    "explanation": "Fever, hypotension, confusion, and low urine output after surgery indicate infection with systemic hypoperfusion. \"Expected postoperative pain\" does not explain the unstable vital signs and oliguria."
+  },
+  {
+    "id": "NCLEX-RN8-083",
+    "prompt": "A client arrives after a motor vehicle collision. Which assessment finding requires immediate action?",
+    "choices": {
+      "A": "Gurgling respirations",
+      "B": "Bruising over the shoulder",
+      "C": "Pain rated 7/10 in the leg",
+      "D": "A small forehead abrasion"
+    },
+    "correct": "A",
+    "explanation": "Gurgling respirations signal compromised airway patency from secretions and require immediate intervention. \"Pain rated 7/10 in the leg\" is important, but airway takes priority."
+  },
+  {
+    "id": "NCLEX-RN8-084",
+    "prompt": "A client develops wheezing, lip swelling, and hypotension minutes after starting an IV antibiotic. Which action should the nurse take first?",
+    "choices": {
+      "A": "Administer epinephrine as prescribed",
+      "B": "Obtain a detailed allergy history",
+      "C": "Apply a warm compress to the IV site",
+      "D": "Reassess in 20 minutes"
+    },
+    "correct": "A",
+    "explanation": "Wheezing, lip swelling, and hypotension indicate anaphylaxis, and epinephrine is first-line treatment. \"Obtain a detailed allergy history\" can wait until after stabilization."
+  },
+  {
+    "id": "NCLEX-RN8-085",
+    "prompt": "A postpartum client is saturating one perineal pad every 10 minutes and has a boggy uterus. Which action should the nurse take first?",
+    "choices": {
+      "A": "Massage the fundus",
+      "B": "Encourage the client to walk to the bathroom",
+      "C": "Teach the client breastfeeding techniques",
+      "D": "Offer oral fluids"
+    },
+    "correct": "A",
+    "explanation": "A boggy uterus with heavy bleeding indicates uterine atony, and fundal massage is the first action. \"Encourage the client to walk to the bathroom\" is unsafe in postpartum hemorrhage."
+  },
+  {
+    "id": "NCLEX-RN8-086",
+    "prompt": "A pregnant client at 36 weeks reports severe headache, blurred vision, and epigastric pain. Blood pressure is 176/108 mm Hg. Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the provider and prepare for seizure precautions",
+      "B": "Recheck the blood pressure after lunch",
+      "C": "Encourage the client to ambulate",
+      "D": "Teach relaxation breathing"
+    },
+    "correct": "A",
+    "explanation": "Severe hypertension with headache, blurred vision, and epigastric pain suggests severe preeclampsia and risk for eclampsia. \"Recheck the blood pressure after lunch\" dangerously delays care."
+  },
+  {
+    "id": "NCLEX-RN8-087",
+    "prompt": "A newborn is grunting, has nasal flaring, and circumoral cyanosis. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess airway and support oxygenation",
+      "B": "Delay intervention because the newborn is adjusting",
+      "C": "Offer a feeding",
+      "D": "Swaddle the newborn tightly and return later"
+    },
+    "correct": "A",
+    "explanation": "Grunting, nasal flaring, and circumoral cyanosis indicate neonatal respiratory distress, making airway and oxygenation the priority. \"Offer a feeding\" is unsafe in a newborn with respiratory compromise."
+  },
+  {
+    "id": "NCLEX-RN8-088",
+    "prompt": "A toddler with vomiting and diarrhea has sunken eyes, dry mucous membranes, and no tears when crying. Which action should the nurse take first?",
+    "choices": {
+      "A": "Begin oral rehydration if tolerated",
+      "B": "Offer a carbonated beverage",
+      "C": "Withhold all fluids for 6 hours",
+      "D": "Give a nonprescription antidiarrheal"
+    },
+    "correct": "A",
+    "explanation": "Oral rehydration is first-line therapy for mild to moderate dehydration if tolerated. \"Offer a carbonated beverage\" is not appropriate rehydration therapy."
+  },
+  {
+    "id": "NCLEX-RN8-089",
+    "prompt": "Which child should the nurse assess first?",
+    "choices": {
+      "A": "A toddler with fever and petechiae",
+      "B": "A school-age child with a mild earache",
+      "C": "An adolescent with a sprained wrist",
+      "D": "A preschooler with a scraped knee"
+    },
+    "correct": "A",
+    "explanation": "Fever with petechiae may indicate meningococcemia or another rapidly progressive infection and requires immediate assessment. \"An adolescent with a sprained wrist\" is stable and not urgent."
+  },
+  {
+    "id": "NCLEX-RN8-090",
+    "prompt": "A postoperative client who received morphine 20 minutes ago is difficult to arouse and has respirations of 8/min. Which action should the nurse take first?",
+    "choices": {
+      "A": "Stop opioid administration and stimulate the client",
+      "B": "Document that pain relief is adequate",
+      "C": "Offer oral fluids",
+      "D": "Place the client in restraints"
+    },
+    "correct": "A",
+    "explanation": "Respirations of 8/min with difficult arousal indicate opioid-induced respiratory depression and require immediate intervention. \"Document that pain relief is adequate\" ignores a potentially life-threatening complication."
+  },
+  {
+    "id": "NCLEX-RN8-091",
+    "prompt": "A client with major burns has singed nasal hairs and an increasingly hoarse voice. Which action should the nurse take first?",
+    "choices": {
+      "A": "Prepare for airway support",
+      "B": "Apply moisturizing lotion to the burns",
+      "C": "Encourage the client to drink fluids",
+      "D": "Obtain the admission weight first"
+    },
+    "correct": "A",
+    "explanation": "Singed nasal hairs and worsening hoarseness suggest inhalation injury and impending airway edema. \"Encourage the client to drink fluids\" is unsafe because airway compromise takes priority."
+  },
+  {
+    "id": "NCLEX-RN8-092",
+    "prompt": "A client with metastatic cancer has a do-not-resuscitate order and becomes pulseless. The family says, \"Start CPR now.\" Which action should the nurse take?",
+    "choices": {
+      "A": "Follow the client's documented wishes and support the family",
+      "B": "Begin CPR until the provider arrives",
+      "C": "Leave the room to avoid the conflict",
+      "D": "Ask the UAP to explain the order"
+    },
+    "correct": "A",
+    "explanation": "A valid do-not-resuscitate order must be honored, and the nurse should support the family. \"Begin CPR until the provider arrives\" violates the client's expressed wishes."
+  },
+  {
+    "id": "NCLEX-RN8-093",
+    "prompt": "A family member of a hospice client says, \"I am worried morphine will make breathing worse.\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Morphine can reduce the sensation of dyspnea and improve comfort.\"",
+      "B": "\"Morphine should never be used when oxygen is prescribed.\"",
+      "C": "\"Morphine is only used for pain, not breathing discomfort.\"",
+      "D": "\"Morphine must be withheld unless the client asks for it.\""
+    },
+    "correct": "A",
+    "explanation": "In hospice care, morphine is commonly used to relieve dyspnea as well as pain. \"Morphine is only used for pain, not breathing discomfort.\" is incorrect and may deny appropriate comfort care."
+  },
+  {
+    "id": "NCLEX-RN8-094",
+    "prompt": "A client with multiple injuries after a fall arrives in the emergency department. Which action is the priority?",
+    "choices": {
+      "A": "Maintain cervical spine precautions while assessing the airway",
+      "B": "Remove the cervical collar to inspect the neck",
+      "C": "Ask the client to walk to the bed",
+      "D": "Begin discharge planning"
+    },
+    "correct": "A",
+    "explanation": "In trauma, airway is the first priority, but cervical spine protection must be maintained. \"Remove the cervical collar to inspect the neck\" is unsafe until spinal injury is ruled out."
+  },
+  {
+    "id": "NCLEX-RN8-095",
+    "prompt": "A client with sepsis has received intravenous fluids and antibiotics. Which finding best indicates improvement?",
+    "choices": {
+      "A": "Urine output increases to 35 mL/hr",
+      "B": "Skin remains cool and mottled",
+      "C": "Blood pressure continues to fall",
+      "D": "Confusion worsens"
+    },
+    "correct": "A",
+    "explanation": "Improving urine output indicates better organ perfusion after sepsis treatment. \"Blood pressure continues to fall\" shows worsening shock, not improvement."
+  },
+  {
+    "id": "NCLEX-RN8-096",
+    "prompt": "A client receiving magnesium sulfate for severe preeclampsia has respirations of 9/min and absent deep tendon reflexes. Which action should the nurse take first?",
+    "choices": {
+      "A": "Stop the infusion and notify the provider",
+      "B": "Increase the infusion rate",
+      "C": "Encourage ambulation",
+      "D": "Reassure the client that this is expected"
+    },
+    "correct": "A",
+    "explanation": "Respiratory depression and absent deep tendon reflexes suggest magnesium toxicity, so the infusion must be stopped immediately. \"Increase the infusion rate\" is dangerous because it worsens toxicity."
+  },
+  {
+    "id": "NCLEX-RN8-097",
+    "prompt": "A client 1 hour after surgery has blood pressure 82/46 mm Hg, heart rate 128/min, cool clammy skin, and urine output 10 mL/hr. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess for hypovolemia and notify the provider",
+      "B": "Encourage oral fluids",
+      "C": "Administer the scheduled antihypertensive",
+      "D": "Delay action until the next vital signs check"
+    },
+    "correct": "A",
+    "explanation": "Hypotension, tachycardia, clammy skin, and low urine output after surgery suggest shock or bleeding and require urgent intervention. \"Delay action until the next vital signs check\" is unsafe because it delays response to instability."
+  },
+  {
+    "id": "NCLEX-RN8-098",
+    "prompt": "A school-age child with type 1 diabetes is pale, shaky, and confused during recess. Which action should the nurse take first?",
+    "choices": {
+      "A": "Give a quick source of glucose",
+      "B": "Administer the scheduled insulin",
+      "C": "Send the child back to class",
+      "D": "Offer a sugar-free drink"
+    },
+    "correct": "A",
+    "explanation": "Pallor, shakiness, and confusion in a child with type 1 diabetes strongly suggest hypoglycemia and require immediate treatment. \"Administer the scheduled insulin dose\" would worsen the problem."
+  },
+  {
+    "id": "NCLEX-RN8-099",
+    "prompt": "A postpartum client calls the clinic on day 5 after delivery and reports severe headache, blurred vision, and swelling of the hands. Which instruction by the nurse is best?",
+    "choices": {
+      "A": "\"Seek immediate evaluation today.\"",
+      "B": "\"These are normal postpartum changes.\"",
+      "C": "\"Decrease fluids and rest until tomorrow.\"",
+      "D": "\"Take an over-the-counter sleep aid.\""
+    },
+    "correct": "A",
+    "explanation": "Severe headache, blurred vision, and hand swelling postpartum suggest postpartum preeclampsia and require urgent assessment. \"These are normal postpartum changes.\" is dangerously reassuring."
+  },
+  {
+    "id": "NCLEX-RN8-100",
+    "prompt": "A client with advanced illness says, \"I do not want more treatments that only prolong dying.\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"Tell me more about what matters most to you now.\"",
+      "B": "\"You should continue all treatments ordered by the provider.\"",
+      "C": "\"Your family will decide for you.\"",
+      "D": "\"Let's not talk about this right now.\""
+    },
+    "correct": "A",
+    "explanation": "This is a therapeutic, patient-centered response that opens a goals-of-care discussion. \"Your family will decide for you.\" is incorrect while the client can still express preferences."
+  },
+  {
+    "id": "NCLEX-RN8-101",
+    "prompt": "Before administering insulin, which action is most important for the nurse to take?",
+    "choices": {
+      "A": "Verify the client using two identifiers",
+      "B": "Check only the room number",
+      "C": "Ask whether the insulin looks familiar",
+      "D": "Administer the insulin before checking the glucose if the dose is routine"
+    },
+    "correct": "A",
+    "explanation": "Correct identification is a core medication-safety step before insulin administration. \"Check only the room number\" is unsafe and not an approved identifier."
+  },
+  {
+    "id": "NCLEX-RN8-102",
+    "prompt": "The nurse receives a telephone prescription for an opioid medication. Which action is most appropriate?",
+    "choices": {
+      "A": "Read back the prescription to verify accuracy",
+      "B": "Ask the UAP to document the order",
+      "C": "Wait until the end of the shift to enter it",
+      "D": "Give the medication from memory"
+    },
+    "correct": "A",
+    "explanation": "Read-back reduces errors with telephone orders by confirming the exact medication, dose, and frequency. \"Give the medication from memory\" is unsafe because it bypasses verification."
+  },
+  {
+    "id": "NCLEX-RN8-103",
+    "prompt": "A client says, \"I signed the surgical consent, but I still do not understand the risks.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Notify the surgeon or provider who will perform the procedure",
+      "B": "Explain the surgical risks for the surgeon",
+      "C": "Witness the consent and send the client to surgery",
+      "D": "Ask the family to reassure the client"
+    },
+    "correct": "A",
+    "explanation": "The provider performing the procedure is responsible for informed consent and answering questions about risks. \"Explain the surgical risks for the surgeon\" is outside the nurse's role."
+  },
+  {
+    "id": "NCLEX-RN8-104",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced LPN/LVN?",
+    "choices": {
+      "A": "Administer a scheduled oral medication to a stable client",
+      "B": "Perform the initial assessment of a newly admitted client",
+      "C": "Teach a client how to self-administer insulin",
+      "D": "Develop the plan of care for a new postoperative client"
+    },
+    "correct": "A",
+    "explanation": "This is an appropriate task for an experienced LPN/LVN caring for a stable client. \"Perform the initial assessment of a newly admitted client\" requires RN assessment."
+  },
+  {
+    "id": "NCLEX-RN8-105",
+    "prompt": "An assistive personnel reports a finger-stick blood glucose of 43 mg/dL. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the client and treat according to protocol",
+      "B": "Document the result and recheck later",
+      "C": "Ask the assistive personnel to repeat the test in 2 hours",
+      "D": "Administer the scheduled insulin dose"
+    },
+    "correct": "A",
+    "explanation": "A blood glucose of 43 mg/dL is an urgent finding, so the nurse must assess and intervene promptly. \"Document the result and recheck later\" dangerously delays treatment."
+  },
+  {
+    "id": "NCLEX-RN8-106",
+    "prompt": "The nurse realizes a client received 10 mg of a medication instead of the prescribed 1 mg. Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess the client for adverse effects",
+      "B": "Complete an incident report before seeing the client",
+      "C": "Ask the next shift to watch the client",
+      "D": "Document that the provider wrote the wrong dose"
+    },
+    "correct": "A",
+    "explanation": "After a medication error, the nurse's first duty is to ensure client safety through immediate assessment. \"Complete an incident report before seeing the client\" is important later but not the first step."
+  },
+  {
+    "id": "NCLEX-RN8-107",
+    "prompt": "A provider writes a prescription for morphine 2.0 mg IV every 4 hours as needed. Which action should the nurse take?",
+    "choices": {
+      "A": "Clarify the prescription because the trailing zero is unsafe",
+      "B": "Administer the medication as written",
+      "C": "Rewrite the prescription as 20 mg",
+      "D": "Ask the UAP whether the dose looks correct"
+    },
+    "correct": "A",
+    "explanation": "A trailing zero can cause a tenfold dosing error and must be corrected before administration. \"Administer the medication as written\" ignores a major medication-safety principle."
+  },
+  {
+    "id": "NCLEX-RN8-108",
+    "prompt": "A family member asks the nurse, \"What did the biopsy show?\" The alert client has not given permission to share information. Which response by the nurse is best?",
+    "choices": {
+      "A": "\"I cannot discuss the client's results without permission.\"",
+      "B": "\"It was probably nothing serious.\"",
+      "C": "\"I can tell you if you promise not to tell anyone.\"",
+      "D": "\"Ask another staff member who knows the client.\""
+    },
+    "correct": "A",
+    "explanation": "Client confidentiality must be protected unless the client authorizes disclosure. \"It was probably nothing serious.\" still reveals protected information and is inappropriate."
+  },
+  {
+    "id": "NCLEX-RN8-109",
+    "prompt": "An adolescent asks to speak privately with the nurse about sexual health. Which nursing action is most appropriate?",
+    "choices": {
+      "A": "Provide privacy and explain the limits of confidentiality",
+      "B": "Refuse to discuss the topic without a parent present",
+      "C": "Share the information with the adolescent's friends",
+      "D": "Document that the adolescent is secretive"
+    },
+    "correct": "A",
+    "explanation": "Adolescents should be given privacy for sensitive discussions, with explanation of safety-related limits to confidentiality. \"Refuse to discuss the topic without a parent present\" is not client centered and may block care."
+  },
+  {
+    "id": "NCLEX-RN8-110",
+    "prompt": "An older adult says, \"My son shoves me when he gets angry.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Assess immediate safety and follow reporting policy",
+      "B": "Promise to keep the information secret",
+      "C": "Tell the client not to upset the son",
+      "D": "Wait until the next appointment to address it"
+    },
+    "correct": "A",
+    "explanation": "Suspected elder abuse requires immediate safety assessment and action according to law and policy. \"Promise to keep the information secret.\" is inappropriate because abuse concerns must be addressed."
+  },
+  {
+    "id": "NCLEX-RN8-111",
+    "prompt": "A confused client repeatedly tries to pull out the intravenous catheter. Which action should the nurse implement first?",
+    "choices": {
+      "A": "Use reorientation and closer observation",
+      "B": "Apply restraints immediately",
+      "C": "Sedate the client and leave the room",
+      "D": "Tie the client to the bed with a sheet"
+    },
+    "correct": "A",
+    "explanation": "Least restrictive interventions should be tried first for a confused client at risk of self-harm. \"Apply restraints immediately\" is not first-line and may worsen agitation."
+  },
+  {
+    "id": "NCLEX-RN8-112",
+    "prompt": "A client who speaks little English needs discharge teaching about a new anticoagulant. Which action by the nurse is best?",
+    "choices": {
+      "A": "Use a qualified medical interpreter",
+      "B": "Ask the client's teenage child to interpret",
+      "C": "Speak louder in English",
+      "D": "Provide written instructions in English only"
+    },
+    "correct": "A",
+    "explanation": "A qualified interpreter provides accurate, confidential, and safe communication for discharge teaching. \"Ask the client's teenage child to interpret\" is unreliable and inappropriate."
+  },
+  {
+    "id": "NCLEX-RN8-113",
+    "prompt": "Which information is most important for the nurse to include in an SBAR report about a deteriorating client?",
+    "choices": {
+      "A": "Current vital signs and the immediate concern",
+      "B": "The nurse's opinion of the client's personality",
+      "C": "The names of all visitors today",
+      "D": "The client's insurance information"
+    },
+    "correct": "A",
+    "explanation": "SBAR should focus on the current clinical problem and objective data that support urgency. \"The names of all visitors today\" are not clinically relevant to deterioration."
+  },
+  {
+    "id": "NCLEX-RN8-114",
+    "prompt": "The nurse is evaluating whether a client understood discharge teaching about heart failure self-care. Which method is best?",
+    "choices": {
+      "A": "Ask the client to explain daily weight monitoring in the client's own words",
+      "B": "Ask the client whether the instructions sounded clear",
+      "C": "Give the same handout again without asking questions",
+      "D": "Assume understanding because the client nods"
+    },
+    "correct": "A",
+    "explanation": "Teach-back is the best way to verify real understanding of discharge instructions. \"Ask the client whether the instructions sounded clear\" does not confirm comprehension."
+  },
+  {
+    "id": "NCLEX-RN8-115",
+    "prompt": "A provider plans to discharge a client who is short of breath at rest, has an oxygen saturation of 86% on room air, and lives alone. Which action should the nurse take first?",
+    "choices": {
+      "A": "Communicate safety concerns to the provider and use the chain of command if needed",
+      "B": "Arrange the discharge because the order is already written",
+      "C": "Tell the client to call 911 if symptoms worsen after going home",
+      "D": "Ask the family to decide whether discharge is safe"
+    },
+    "correct": "A",
+    "explanation": "The nurse must advocate when discharge appears unsafe because of hypoxemia and poor support. \"Arrange the discharge because the order is already written\" ignores the nurse's duty to protect the client."
+  },
+  {
+    "id": "NCLEX-RN8-116",
+    "prompt": "A client refuses a prescribed dose of furosemide. Which documentation by the nurse is best?",
+    "choices": {
+      "A": "\"Medication refused after education provided; provider notified.\"",
+      "B": "\"Client noncompliant and difficult.\"",
+      "C": "\"Medication not given.\"",
+      "D": "\"Client refused because nurse was busy.\""
+    },
+    "correct": "A",
+    "explanation": "This wording is objective, complete, and includes the appropriate follow-up. \"Client noncompliant and difficult.\" is judgmental and unprofessional."
+  },
+  {
+    "id": "NCLEX-RN8-117",
+    "prompt": "When wasting part of a controlled substance dose, which action is most appropriate?",
+    "choices": {
+      "A": "Have another licensed nurse witness the waste according to policy",
+      "B": "Discard the medication alone in the trash",
+      "C": "Leave the medication at the bedside for later use",
+      "D": "Return the opened medication to stock without documentation"
+    },
+    "correct": "A",
+    "explanation": "Controlled-substance waste requires witnessing and documentation for safety and legal accountability. \"Discard the medication alone in the trash\" violates policy."
+  },
+  {
+    "id": "NCLEX-RN8-118",
+    "prompt": "During a sterile dressing change, the nurse accidentally touches the sterile glove to the bedrail. Which action should the nurse take?",
+    "choices": {
+      "A": "Replace the contaminated glove",
+      "B": "Continue because the contact was brief",
+      "C": "Spray the glove with antiseptic and continue",
+      "D": "Ask the UAP to finish the sterile procedure"
+    },
+    "correct": "A",
+    "explanation": "Once a sterile glove touches a nonsterile surface, it is contaminated and must be changed. \"Continue because the contact was brief\" is wrong because any contamination breaks sterile technique."
+  },
+  {
+    "id": "NCLEX-RN8-119",
+    "prompt": "Which task is appropriate for the nurse to delegate to an experienced assistive personnel (UAP)?",
+    "choices": {
+      "A": "Ambulate a stable postoperative client after the nurse assesses readiness",
+      "B": "Teach a client to use an incentive spirometer",
+      "C": "Interpret orthostatic vital signs",
+      "D": "Assess a pressure injury"
+    },
+    "correct": "A",
+    "explanation": "UAP can assist with ambulation once the nurse determines it is safe. \"Teach a client to use an incentive spirometer\" requires nursing teaching and should not be delegated."
+  },
+  {
+    "id": "NCLEX-RN8-120",
+    "prompt": "A float nurse from a rehabilitation unit is assigned to a medical-surgical floor. Which assignment is most appropriate?",
+    "choices": {
+      "A": "Stable clients with predictable care needs",
+      "B": "A client receiving the first blood transfusion",
+      "C": "A client with chest pain awaiting evaluation",
+      "D": "A client with sepsis requiring frequent reassessment"
+    },
+    "correct": "A",
+    "explanation": "Float nurses should be assigned clients whose needs match their skills and are predictable. \"A client with sepsis requiring frequent reassessment\" is too unstable for this assignment."
+  },
+  {
+    "id": "NCLEX-RN8-121",
+    "prompt": "A competent client says, \"I do not want CPR if my heart stops.\" The family insists on full resuscitation. Which action should the nurse take?",
+    "choices": {
+      "A": "Advocate for the client's wishes and follow facility policy",
+      "B": "Follow the family's request because they are next of kin",
+      "C": "Delay documentation until the family agrees",
+      "D": "Ignore the client's statement to avoid conflict"
+    },
+    "correct": "A",
+    "explanation": "A competent client has the right to determine code status, and the nurse must support that decision. \"Follow the family's request because they are next of kin\" is wrong because family cannot override a competent client."
+  },
+  {
+    "id": "NCLEX-RN8-122",
+    "prompt": "Which statement about an incident report is accurate?",
+    "choices": {
+      "A": "It is used for quality improvement and is not part of the medical record",
+      "B": "It replaces charting in the medical record",
+      "C": "It should include opinions about who is to blame",
+      "D": "It is required only when the client is injured"
+    },
+    "correct": "A",
+    "explanation": "Incident reports support quality improvement and risk management, but they do not replace charting. \"It replaces charting in the medical record\" is incorrect because factual clinical documentation still belongs in the chart."
+  },
+  {
+    "id": "NCLEX-RN8-123",
+    "prompt": "A preoperative client asks, \"Can I change my mind about surgery after signing the consent?\" Which response by the nurse is best?",
+    "choices": {
+      "A": "\"You have the right to withdraw consent before the procedure.\"",
+      "B": "\"You cannot change your mind after signing.\"",
+      "C": "\"Only your family can cancel the surgery now.\"",
+      "D": "\"The consent becomes permanent once you are admitted.\""
+    },
+    "correct": "A",
+    "explanation": "A client may withdraw consent at any time before the procedure begins. \"You cannot change your mind after signing.\" violates client autonomy and is false."
+  },
+  {
+    "id": "NCLEX-RN8-124",
+    "prompt": "During medication reconciliation, a client says, \"I stopped one of my blood pressure pills because it made me dizzy.\" Which action should the nurse take first?",
+    "choices": {
+      "A": "Clarify which medication was stopped and notify the provider",
+      "B": "Tell the client to restart all medications immediately",
+      "C": "Document the statement after discharge",
+      "D": "Assume the provider discontinued the medication"
+    },
+    "correct": "A",
+    "explanation": "Medication reconciliation requires identifying the specific drug and communicating the change to prevent harm. \"Tell the client to restart all medications immediately\" is unsafe without clarification."
+  },
+  {
+    "id": "NCLEX-RN8-125",
+    "prompt": "The nurse delegates vital signs to an experienced UAP for four stable clients. Which finding should the nurse follow up on first?",
+    "choices": {
+      "A": "Blood pressure 82/48 mm Hg in a client 2 hours after surgery",
+      "B": "Temperature 99.0°F (37.2°C) in a client with cellulitis",
+      "C": "Heart rate 88/min in a client with hypertension",
+      "D": "Oxygen saturation 95% in a client with COPD"
+    },
+    "correct": "A",
+    "explanation": "Hypotension shortly after surgery may indicate bleeding or shock and requires immediate follow-up. \"Oxygen saturation 95% in a client with COPD\" is generally acceptable and far less urgent."
+  }
+]

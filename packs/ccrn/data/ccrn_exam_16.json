@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "CCRN16-001",
+    "prompt": "A patient 6 hours after transcatheter aortic valve replacement develops new sinus bradycardia at 33/min, progressive PR prolongation, dizziness, and BP 80/44 mm Hg. What is the best next action?",
+    "choices": {
+      "A": "Prepare for emergent pacing support",
+      "B": "Give adenosine IV push",
+      "C": "Administer a routine beta blocker dose",
+      "D": "Encourage ambulation to improve heart rate"
+    },
+    "correct": "A",
+    "explanation": "Progressive conduction delay after TAVR with symptomatic bradycardia and hypotension is an unstable conduction emergency that requires pacing support. Give adenosine IV push is unsafe because adenosine treats certain tachyarrhythmias, not symptomatic bradycardia."
+  },
+  {
+    "id": "CCRN16-002",
+    "prompt": "A patient admitted with acute decompensated heart failure remains dyspneic with diffuse crackles, 3+ peripheral edema, BP 168/92 mm Hg, and urine output 15 mL/hr. Creatinine increased from 1.1 to 1.4 mg/dL after IV diuretic therapy. What is the best nursing action?",
+    "choices": {
+      "A": "Continue aggressive decongestion while reassessing response",
+      "B": "Stop all diuretics immediately and give a 1-liter fluid bolus",
+      "C": "Begin routine oral fluid loading",
+      "D": "Place the patient flat and defer reassessment"
+    },
+    "correct": "A",
+    "explanation": "Persistent congestion with hypertension, crackles, edema, and oliguria still supports ongoing decongestion even with a modest creatinine rise, because relieving venous congestion often improves renal perfusion overall. Stop all diuretics immediately and give a 1-liter fluid bolus would likely worsen pulmonary edema."
+  },
+  {
+    "id": "CCRN16-003",
+    "prompt": "A patient 72 hours after anterior myocardial infarction suddenly develops severe dyspnea, frothy sputum, hypotension, and a new harsh systolic murmur at the apex. What is the priority nursing action?",
+    "choices": {
+      "A": "Notify the provider urgently about a possible mechanical complication",
+      "B": "Encourage slow deep breathing and recheck in 30 minutes",
+      "C": "Start oral beta blocker therapy",
+      "D": "Ambulate the patient to improve ventilation"
+    },
+    "correct": "A",
+    "explanation": "Sudden pulmonary edema, hypotension, and a new loud systolic murmur after MI strongly suggest a mechanical complication such as papillary muscle rupture or septal rupture. Reassure the patient and recheck in 30 minutes dangerously delays treatment of a life-threatening emergency."
+  },
+  {
+    "id": "CCRN16-004",
+    "prompt": "A patient with cardiogenic shock has cardiac index 1.8 L/min/m², PAOP 26 mm Hg, SVR 2100 dyn·sec/cm5, cool clammy skin, and worsening fatigue. Which intervention is most likely to improve forward flow?",
+    "choices": {
+      "A": "Titrated afterload reduction",
+      "B": "Large crystalloid bolus",
+      "C": "Oral calcium supplementation",
+      "D": "Immediate discontinuation of oxygen"
+    },
+    "correct": "A",
+    "explanation": "Low cardiac index with high PAOP and high SVR in a cold-wet patient is most likely to improve with afterload reduction. Large crystalloid bolus is the tempting distractor, but the elevated filling pressure shows the patient is already congested."
+  },
+  {
+    "id": "CCRN16-005",
+    "prompt": "A patient with non-ST elevation acute coronary syndrome continues to have chest pressure and new diffuse ST-segment depression despite aspirin, anticoagulation, and nitrates. BP is 122/76 mm Hg. What is the best next step?",
+    "choices": {
+      "A": "Notify cardiology urgently for invasive evaluation",
+      "B": "Reassure the patient and continue current therapy unchanged",
+      "C": "Hold all antiplatelet therapy",
+      "D": "Encourage light walking to assess tolerance"
+    },
+    "correct": "A",
+    "explanation": "Recurrent ischemic symptoms with new diffuse ST depression despite therapy indicate ongoing high-risk ACS needing urgent invasive assessment. Reassure the patient and continue current therapy unchanged is incomplete because ischemia is clearly persisting."
+  },
+  {
+    "id": "CCRN16-006",
+    "prompt": "A patient on dobutamine for low-output heart failure becomes more tachycardic after the infusion is increased. MAP falls to 53 mm Hg, and urine output decreases sharply. What is the best nursing action?",
+    "choices": {
+      "A": "Notify the provider and reassess the infusion",
+      "B": "Increase the infusion again",
+      "C": "Start oral diltiazem",
+      "D": "Give a large oral fluid load"
+    },
+    "correct": "A",
+    "explanation": "Dobutamine can worsen tachycardia and may reduce effective perfusion when it precipitates hypotension, so the infusion needs immediate reassessment. Increase the infusion again would likely worsen the hemodynamic instability."
+  },
+  {
+    "id": "CCRN16-007",
+    "prompt": "A patient 10 hours after lung resection develops new atrial fibrillation with HR 152/min. BP is 124/80 mm Hg, oxygen saturation is 95%, and the patient reports palpitations without chest pain. Electrolytes are normal. What is the most appropriate initial treatment?",
+    "choices": {
+      "A": "IV beta blocker for rate control",
+      "B": "Immediate synchronized cardioversion",
+      "C": "Unsynchronized defibrillation",
+      "D": "Chest compressions"
+    },
+    "correct": "A",
+    "explanation": "New postoperative atrial fibrillation in a hemodynamically stable patient is usually managed first with rate control. Immediate synchronized cardioversion is unnecessary because there are no signs of instability."
+  },
+  {
+    "id": "CCRN16-008",
+    "prompt": "A patient with severe pulmonary arterial hypertension develops worsening ascites, hepatomegaly, increasing jugular venous distention, and progressive peripheral edema while lungs remain clear. Which chamber dysfunction is most likely driving the current problem?",
+    "choices": {
+      "A": "Right ventricular failure",
+      "B": "Left ventricular outflow obstruction",
+      "C": "Acute aortic regurgitation",
+      "D": "Isolated left atrial enlargement"
+    },
+    "correct": "A",
+    "explanation": "Rising JVP, ascites, hepatomegaly, and edema with clear lungs indicate systemic venous congestion from RV failure. Acute aortic regurgitation would not produce this isolated right-sided pattern."
+  },
+  {
+    "id": "CCRN16-009",
+    "prompt": "A patient with rapid atrial fibrillation at 170/min becomes pale, diaphoretic, and increasingly confused. BP falls to 72/38 mm Hg. What intervention should the nurse anticipate next?",
+    "choices": {
+      "A": "Synchronized cardioversion",
+      "B": "Oral rate-control medication",
+      "C": "Observation for spontaneous conversion",
+      "D": "Chest compressions"
+    },
+    "correct": "A",
+    "explanation": "Rapid atrial fibrillation with hypotension, pallor, diaphoresis, and confusion is hemodynamically unstable and requires synchronized cardioversion. Oral rate-control medication is too slow for this unstable presentation."
+  },
+  {
+    "id": "CCRN16-010",
+    "prompt": "A patient receiving digoxin for chronic heart failure develops nausea, confusion, yellow-green visual halos, HR 40/min, and new ventricular ectopy. What is the best nursing action?",
+    "choices": {
+      "A": "Hold the digoxin and notify the provider promptly",
+      "B": "Give the next dose early to restore therapeutic levels",
+      "C": "Start a loop diuretic infusion",
+      "D": "Encourage oral potassium restriction"
+    },
+    "correct": "A",
+    "explanation": "Nausea, confusion, visual halos, bradycardia, and ventricular ectopy strongly suggest digoxin toxicity. Give the next dose early to restore therapeutic levels would worsen the toxicity."
+  },
+  {
+    "id": "CCRN16-011",
+    "prompt": "A patient 3 hours after cardiac surgery has chest tube drainage of 300 mL in the last hour and 260 mL the hour before. MAP falls from 76 to 58 mm Hg, and the skin is cool. What is the priority nursing action?",
+    "choices": {
+      "A": "Notify the surgeon immediately and prepare for escalation",
+      "B": "Clamp the chest tubes for 30 minutes",
+      "C": "Strip the tubes forcefully",
+      "D": "Delay action until the next hemoglobin result"
+    },
+    "correct": "A",
+    "explanation": "Persistent high chest tube output with falling MAP after cardiac surgery suggests major postoperative bleeding. Clamp the chest tubes for 30 minutes is unsafe because it may worsen retained blood and does not address hemorrhage."
+  },
+  {
+    "id": "CCRN16-012",
+    "prompt": "A patient with severe dilated cardiomyopathy has pulsus alternans on the arterial waveform, rising lactate, worsening oliguria, and increasing fatigue. What is the most important interpretation?",
+    "choices": {
+      "A": "Left ventricular failure is worsening",
+      "B": "The arterial catheter is malfunctioning",
+      "C": "The oliguria is unrelated to perfusion",
+      "D": "The lactate rise is expected and not clinically useful"
+    },
+    "correct": "A",
+    "explanation": "Pulsus alternans with rising lactate and oliguria is a classic sign of worsening severe LV dysfunction and poor forward flow. The arterial catheter is malfunctioning is the tempting distractor, but the end-organ perfusion markers support a true physiologic decline."
+  },
+  {
+    "id": "CCRN16-013",
+    "prompt": "A patient with a temporary pacing system suddenly develops dizziness, HR 31/min, and telemetry shows pacing spikes without QRS complexes. BP is 82/44 mm Hg. What should the nurse do first?",
+    "choices": {
+      "A": "Check the pacing system and increase output per protocol",
+      "B": "Remove the pacing wire immediately",
+      "C": "Give oral metoprolol",
+      "D": "Encourage the patient to cough forcefully"
+    },
+    "correct": "A",
+    "explanation": "Pacing spikes without QRS complexes indicate failure to capture, so the first step is to assess the system and increase output if allowed. Give oral metoprolol would worsen bradycardia and hypotension."
+  },
+  {
+    "id": "CCRN16-014",
+    "prompt": "A patient with fulminant myocarditis remains hypotensive with cardiac index 1.3 L/min/m², rising creatinine, and lactate 6.4 mmol/L despite vasoactive support. What is the best next step?",
+    "choices": {
+      "A": "Escalate urgently for mechanical circulatory support evaluation",
+      "B": "Continue the same treatment and recheck in 8 hours",
+      "C": "Stop all vasoactive medications",
+      "D": "Begin oral antihypertensive therapy"
+    },
+    "correct": "A",
+    "explanation": "Fulminant myocarditis with refractory low-output shock, rising creatinine, and very high lactate despite vasoactive support may require mechanical support. Continue the same treatment and recheck in 8 hours delays needed escalation."
+  },
+  {
+    "id": "CCRN16-015",
+    "prompt": "A patient with inferior myocardial infarction develops symptomatic sinus bradycardia at 34/min with BP 82/40 mm Hg and diaphoresis. Which medication should the nurse anticipate first?",
+    "choices": {
+      "A": "Atropine",
+      "B": "Adenosine",
+      "C": "Metoprolol",
+      "D": "Furosemide"
+    },
+    "correct": "A",
+    "explanation": "Symptomatic sinus bradycardia with hypotension after inferior MI should be treated initially with atropine. Metoprolol would worsen bradycardia and perfusion."
+  },
+  {
+    "id": "CCRN16-016",
+    "prompt": "A patient with recurrent ICD shocks is awake and perfusing. Telemetry shows sinus rhythm with artifact during each shock. What is the best immediate nursing action?",
+    "choices": {
+      "A": "Place a magnet over the device and notify the provider",
+      "B": "Deliver an unsynchronized shock",
+      "C": "Begin chest compressions",
+      "D": "Administer oral potassium"
+    },
+    "correct": "A",
+    "explanation": "Recurrent ICD shocks during sinus rhythm with artifact suggest inappropriate shocks, and a magnet can suspend therapies while urgent evaluation occurs. Deliver an unsynchronized shock is wrong because the patient is perfusing and not in a shockable arrest rhythm."
+  },
+  {
+    "id": "CCRN16-017",
+    "prompt": "A patient with severe pneumonia on high-flow nasal oxygen becomes increasingly somnolent, RR falls from 30/min to 8/min, and ETCO2 rises steadily. SpO2 remains 95% on FiO2 0.80. What is the best interpretation?",
+    "choices": {
+      "A": "Ventilatory failure is worsening despite acceptable oxygen saturation",
+      "B": "Oxygenation is adequate, so no escalation is needed",
+      "C": "Capnography is not useful in this situation",
+      "D": "The patient is hyperventilating from anxiety"
+    },
+    "correct": "A",
+    "explanation": "Falling respiratory rate, rising ETCO2, and somnolence indicate worsening ventilation even though oxygen saturation remains acceptable on high FiO2. Oxygenation is adequate, so no escalation is needed misses impending hypercapnic respiratory failure."
+  },
+  {
+    "id": "CCRN16-018",
+    "prompt": "A mechanically ventilated patient suddenly becomes hypotensive and severely hypoxemic after central line placement. Breath sounds are absent on the right, and tracheal deviation is noted. What is the priority action?",
+    "choices": {
+      "A": "Prepare for immediate decompression of a tension pneumothorax",
+      "B": "Order a chest x-ray before intervening",
+      "C": "Increase sedation and continue observation",
+      "D": "Start enteral feeding"
+    },
+    "correct": "A",
+    "explanation": "Sudden hypoxemia, hypotension, unilateral absent breath sounds, and tracheal deviation after line placement are classic for tension pneumothorax. Order a chest x-ray before intervening is unsafe because treatment cannot wait."
+  },
+  {
+    "id": "CCRN16-019",
+    "prompt": "A patient with obesity hypoventilation syndrome receives repeated opioid doses after surgery. RR is 7/min, ETCO2 is 66 mm Hg, and the patient is difficult to arouse. SpO2 is 95% on nasal cannula. What is the best nursing action?",
+    "choices": {
+      "A": "Support ventilation and notify the provider promptly",
+      "B": "Remove oxygen to stimulate breathing",
+      "C": "Encourage oral hydration",
+      "D": "Lower the head of the bed"
+    },
+    "correct": "A",
+    "explanation": "Severe opioid-induced hypoventilation with hypercapnia and depressed arousal requires immediate ventilatory support. Remove oxygen to stimulate breathing is unsafe and does not treat the primary problem."
+  },
+  {
+    "id": "CCRN16-020",
+    "prompt": "A patient with COPD exacerbation on bilevel ventilation becomes progressively confused and repeatedly removes the mask. ABG worsens to pH 7.19 and PaCO2 82 mm Hg. What is the best next step?",
+    "choices": {
+      "A": "Transition to endotracheal intubation",
+      "B": "Tighten the mask and continue bilevel support",
+      "C": "Delay intervention for another ABG in 4 hours",
+      "D": "Begin oral nutrition"
+    },
+    "correct": "A",
+    "explanation": "Worsening acidemia, severe hypercapnia, confusion, and poor mask tolerance indicate failed noninvasive ventilation. Tighten the mask and continue bilevel support delays definitive airway management."
+  },
+  {
+    "id": "CCRN16-021",
+    "prompt": "A ventilated patient has peak airway pressure that rises from 24 to 41 cm H2O while plateau pressure remains 21 cm H2O. Diffuse expiratory wheezing is present, and the capnogram has a shark-fin appearance. What is the most likely cause?",
+    "choices": {
+      "A": "Bronchospasm",
+      "B": "Decreased lung compliance",
+      "C": "Pleural effusion",
+      "D": "Pulmonary edema"
+    },
+    "correct": "A",
+    "explanation": "High peak pressure with unchanged plateau pressure indicates increased airway resistance, and wheezing plus a shark-fin capnogram support bronchospasm. Decreased lung compliance would also raise plateau pressure."
+  },
+  {
+    "id": "CCRN16-022",
+    "prompt": "A patient 25 minutes after extubation develops inspiratory stridor, hoarse voice, and visible suprasternal retractions. Oxygen saturation is falling despite facemask oxygen. What is the best immediate action?",
+    "choices": {
+      "A": "Escalate urgently for upper-airway obstruction management",
+      "B": "Encourage repeated coughing and observe",
+      "C": "Begin oral feedings",
+      "D": "Remove supplemental oxygen"
+    },
+    "correct": "A",
+    "explanation": "Post-extubation stridor, hoarseness, and retractions indicate significant upper-airway edema and risk of rapid obstruction. Encourage repeated coughing and observe is incomplete and unsafe."
+  },
+  {
+    "id": "CCRN16-023",
+    "prompt": "A patient with multiple rib fractures is splinting, breathing shallowly, and has rising PaCO2. Chest x-ray shows low lung volumes without pneumothorax. Which intervention is most likely to improve ventilation?",
+    "choices": {
+      "A": "Improve analgesia and pulmonary hygiene",
+      "B": "Restrict all analgesia to preserve respiratory drive",
+      "C": "Place the patient on strict bed rest only",
+      "D": "Stop oxygen therapy"
+    },
+    "correct": "A",
+    "explanation": "Rib fracture pain causes splinting and shallow respirations, so better analgesia improves ventilation and secretion clearance. Restrict all analgesia to preserve respiratory drive worsens hypoventilation."
+  },
+  {
+    "id": "CCRN16-024",
+    "prompt": "A patient on mechanical ventilation has repeated low exhaled tidal volume alarms and an audible leak at the mouth. Breath sounds remain bilateral, and the capnogram is smaller than earlier. What should the nurse assess first?",
+    "choices": {
+      "A": "Endotracheal tube cuff integrity",
+      "B": "Bowel sounds",
+      "C": "Serum sodium level",
+      "D": "Pedal edema"
+    },
+    "correct": "A",
+    "explanation": "Low exhaled tidal volume with an audible oral leak points first to cuff leak or cuff failure. Serum sodium level is unrelated to the immediate ventilator problem."
+  },
+  {
+    "id": "CCRN16-025",
+    "prompt": "A patient with severe asthma is intubated. The ventilator shows prolonged exhalation, rising intrinsic PEEP, and blood pressure drops with breath stacking. Which adjustment is most appropriate first?",
+    "choices": {
+      "A": "Reduce the respiratory rate to allow more exhalation time",
+      "B": "Increase the respiratory rate to lower PaCO2",
+      "C": "Increase tidal volume substantially",
+      "D": "Turn off ventilator alarms"
+    },
+    "correct": "A",
+    "explanation": "In severe asthma with dynamic hyperinflation, allowing more exhalation time reduces intrinsic PEEP and hemodynamic compromise. Increase the respiratory rate to lower PaCO2 would worsen breath stacking."
+  },
+  {
+    "id": "CCRN16-026",
+    "prompt": "A patient with a large pleural effusion is tachypneic, can speak only in short phrases, and cannot lie flat. Which intervention should the nurse anticipate?",
+    "choices": {
+      "A": "Therapeutic pleural drainage",
+      "B": "Large oral fluid intake",
+      "C": "Immediate discharge planning",
+      "D": "Incentive spirometry alone"
+    },
+    "correct": "A",
+    "explanation": "A large effusion causing marked dyspnea and orthopnea is most effectively treated with drainage. Incentive spirometry alone does not relieve the mechanical compression."
+  },
+  {
+    "id": "CCRN16-027",
+    "prompt": "A patient on bilevel ventilation suddenly vomits into the mask and becomes cyanotic. What is the nurse’s immediate priority?",
+    "choices": {
+      "A": "Remove the mask and protect the airway",
+      "B": "Increase inspiratory pressure",
+      "C": "Continue enteral feedings",
+      "D": "Place the patient flat"
+    },
+    "correct": "A",
+    "explanation": "Vomiting into a bilevel mask creates immediate aspiration risk and requires airway protection. Continue enteral feedings would worsen the aspiration hazard."
+  },
+  {
+    "id": "CCRN16-028",
+    "prompt": "A patient with severe hypoxemic respiratory failure is being prepared for prone positioning. Which action is most important before the turn?",
+    "choices": {
+      "A": "Secure all tubes and lines with a coordinated team plan",
+      "B": "Stop sedation so the patient can help turn",
+      "C": "Remove the enteral tube",
+      "D": "Reduce PEEP to zero"
+    },
+    "correct": "A",
+    "explanation": "Safe prone positioning depends on coordinated protection of the airway, lines, and monitoring equipment. Stop sedation so the patient can help turn is unsafe in severe hypoxemic respiratory failure."
+  },
+  {
+    "id": "CCRN16-029",
+    "prompt": "A patient on high-flow nasal oxygen for viral pneumonia has rising oxygen needs, increasing fatigue, and worsening acidosis over 2 hours. What is the most important nursing concern?",
+    "choices": {
+      "A": "Progression to respiratory failure requiring escalation",
+      "B": "Stable oxygenation because the device is already at a high setting",
+      "C": "Anxiety as the main cause of tachypnea",
+      "D": "Resolution of illness because the patient is quieter"
+    },
+    "correct": "A",
+    "explanation": "Increasing oxygen requirement, fatigue, and worsening acidosis on high-flow oxygen suggest current support is failing. Stable oxygenation because the device is already at a high setting confuses treatment intensity with stability."
+  },
+  {
+    "id": "CCRN16-030",
+    "prompt": "A patient with a mature tracheostomy has coarse breath sounds, visible secretions, and SpO2 86% on trach collar oxygen. What is the best first action?",
+    "choices": {
+      "A": "Suction the tracheostomy and reassess",
+      "B": "Remove the tracheostomy tube",
+      "C": "Cover the stoma completely",
+      "D": "Begin oral intake"
+    },
+    "correct": "A",
+    "explanation": "Visible secretions, coarse breath sounds, and hypoxemia suggest secretion retention causing airflow obstruction. Remove the tracheostomy tube is unsafe and not the first intervention."
+  },
+  {
+    "id": "CCRN16-031",
+    "prompt": "A patient on pressure support ventilation is anxious and says, \"I can’t get enough air.\" Waveforms suggest inspiratory demand exceeds delivered flow. Which adjustment is most appropriate?",
+    "choices": {
+      "A": "Increase inspiratory flow support",
+      "B": "Lower FiO2 to room air",
+      "C": "Eliminate humidification",
+      "D": "Silence the pressure alarms"
+    },
+    "correct": "A",
+    "explanation": "Air hunger with waveforms showing inspiratory demand beyond delivered flow indicates patient-ventilator dyssynchrony that may improve with more inspiratory support. Silence the pressure alarms ignores the underlying problem."
+  },
+  {
+    "id": "CCRN16-032",
+    "prompt": "A patient with diabetic ketoacidosis has glucose 620 mg/dL, bicarbonate 8 mEq/L, anion gap 29, potassium 3.0 mEq/L, and adequate urine output after initial fluids. What is the priority before starting insulin?",
+    "choices": {
+      "A": "Potassium replacement",
+      "B": "Sodium bicarbonate push",
+      "C": "Dextrose 50% bolus",
+      "D": "IV calcium infusion"
+    },
+    "correct": "A",
+    "explanation": "In DKA, potassium must be corrected before insulin when serum potassium is very low because insulin will lower it further. Sodium bicarbonate push is not the first priority here."
+  },
+  {
+    "id": "CCRN16-033",
+    "prompt": "A patient with hyperosmolar hyperglycemic state has falling glucose, persistent dry mucous membranes, and corrected sodium that continues to rise. What is the most accurate interpretation?",
+    "choices": {
+      "A": "The free-water deficit remains significant",
+      "B": "The patient is overhydrated",
+      "C": "Insulin should be stopped immediately",
+      "D": "Corrected sodium no longer matters clinically"
+    },
+    "correct": "A",
+    "explanation": "Rising corrected sodium with persistent clinical dehydration during HHS treatment indicates ongoing water deficit. The patient is overhydrated is inconsistent with the findings."
+  },
+  {
+    "id": "CCRN16-034",
+    "prompt": "A patient on chronic glucocorticoids becomes profoundly weak, hypotensive, nauseated, and hypoglycemic after steroid doses were omitted for 2 days. What therapy should the nurse anticipate?",
+    "choices": {
+      "A": "Stress-dose corticosteroids",
+      "B": "Immediate calcium channel blocker therapy",
+      "C": "Oral potassium supplementation only",
+      "D": "Thyroid hormone as first-line treatment"
+    },
+    "correct": "A",
+    "explanation": "Abrupt omission of chronic steroids causing hypotension, nausea, weakness, and hypoglycemia suggests adrenal crisis. Thyroid hormone as first-line treatment does not address the immediate endocrine problem."
+  },
+  {
+    "id": "CCRN16-035",
+    "prompt": "A patient with acute kidney injury has potassium 6.5 mEq/L and new peaked T waves. What medication should the nurse expect first?",
+    "choices": {
+      "A": "IV calcium",
+      "B": "Oral sodium polystyrene only",
+      "C": "Acetaminophen",
+      "D": "Oral sodium bicarbonate only"
+    },
+    "correct": "A",
+    "explanation": "Hyperkalemia with ECG changes requires immediate cardiac membrane stabilization with IV calcium. Oral sodium polystyrene only is too slow and does not address the urgent arrhythmia risk."
+  },
+  {
+    "id": "CCRN16-036",
+    "prompt": "A patient with fulminant hepatic failure becomes difficult to arouse, has repeated emesis, and glucose is 54 mg/dL. What is the priority nursing action?",
+    "choices": {
+      "A": "Protect the airway and treat hypoglycemia",
+      "B": "Encourage oral protein intake",
+      "C": "Delay intervention until ammonia returns",
+      "D": "Ambulate the patient with assistance"
+    },
+    "correct": "A",
+    "explanation": "Fulminant hepatic failure with depressed consciousness, emesis, and low glucose creates immediate airway and metabolic threats. Delay intervention until ammonia returns is unsafe because the patient is actively deteriorating."
+  },
+  {
+    "id": "CCRN16-037",
+    "prompt": "A patient on continuous renal replacement therapy repeatedly loses the filter after 3 hours. Transmembrane pressure rises progressively before each failure, and catheter flow is adequate. What is the most likely cause?",
+    "choices": {
+      "A": "Filter clotting",
+      "B": "Enteral feeding intolerance",
+      "C": "Low endotracheal tube cuff pressure",
+      "D": "Urinary retention"
+    },
+    "correct": "A",
+    "explanation": "Repeated short filter life with progressively rising transmembrane pressure and preserved catheter flow is most consistent with filter clotting. Enteral feeding intolerance would not explain the CRRT circuit pattern."
+  },
+  {
+    "id": "CCRN16-038",
+    "prompt": "A patient receiving enteral feedings develops increasing abdominal distention, vomiting, guarding, and rising lactate. What is the priority nursing action?",
+    "choices": {
+      "A": "Stop the feeding and notify the provider urgently",
+      "B": "Increase the feeding rate",
+      "C": "Place the patient flat and wait",
+      "D": "Give an oral antacid"
+    },
+    "correct": "A",
+    "explanation": "Distention, vomiting, guarding, and rising lactate suggest severe feeding intolerance or evolving abdominal catastrophe and require urgent escalation. Increase the feeding rate would worsen the situation."
+  },
+  {
+    "id": "CCRN16-039",
+    "prompt": "A patient with platelets 8,000/mm3 develops spontaneous gingival bleeding and petechiae. What treatment should the nurse anticipate?",
+    "choices": {
+      "A": "Platelet transfusion",
+      "B": "Heparin infusion",
+      "C": "Aspirin therapy",
+      "D": "Aggressive ambulation"
+    },
+    "correct": "A",
+    "explanation": "Platelets of 8,000/mm3 with spontaneous mucosal bleeding require platelet support. Aspirin therapy would worsen bleeding."
+  },
+  {
+    "id": "CCRN16-040",
+    "prompt": "A patient on warfarin develops major intracranial hemorrhage with INR 5.2. Which reversal strategy should the nurse anticipate?",
+    "choices": {
+      "A": "IV vitamin K with rapid factor replacement",
+      "B": "Protamine sulfate only",
+      "C": "Idarucizumab",
+      "D": "Naloxone"
+    },
+    "correct": "A",
+    "explanation": "Major warfarin-associated intracranial hemorrhage needs rapid reversal with vitamin K plus clotting factor replacement. Protamine sulfate only is ineffective because it reverses heparin, not warfarin."
+  },
+  {
+    "id": "CCRN16-041",
+    "prompt": "A patient receiving methylprednisolone has glucose values above 300 mg/dL each afternoon and evening while on tube feeding. Which insulin strategy is most appropriate?",
+    "choices": {
+      "A": "Scheduled insulin adjusted to the steroid and feeding pattern",
+      "B": "Stop all insulin because hyperglycemia is expected",
+      "C": "Weekly correction doses only",
+      "D": "Discontinue all calories immediately"
+    },
+    "correct": "A",
+    "explanation": "Steroid-related hyperglycemia during enteral feeding is best managed with a proactive insulin regimen matched to the timing of both. Stop all insulin because hyperglycemia is expected accepts avoidable metabolic harm."
+  },
+  {
+    "id": "CCRN16-042",
+    "prompt": "A patient with high-output ileostomy has orthostatic hypotension, creatinine rising from 0.9 to 1.9 mg/dL, and potassium 3.0 mEq/L. What is the priority nursing focus?",
+    "choices": {
+      "A": "Replace ongoing fluid and electrolyte losses",
+      "B": "Restrict oral intake to reduce output",
+      "C": "Start loop diuretics",
+      "D": "Stop monitoring intake and output"
+    },
+    "correct": "A",
+    "explanation": "High-output ileostomy with orthostasis, kidney injury, and hypokalemia reflects major depletion. Restrict oral intake to reduce output would worsen the deficit."
+  },
+  {
+    "id": "CCRN16-043",
+    "prompt": "A patient on prolonged nasogastric suction has muscle cramps, PVCs, potassium 2.8 mEq/L, chloride 85 mEq/L, and bicarbonate 37 mEq/L. Which replacement is most appropriate?",
+    "choices": {
+      "A": "Potassium chloride",
+      "B": "Sodium bicarbonate",
+      "C": "Ferrous sulfate",
+      "D": "Calcium acetate"
+    },
+    "correct": "A",
+    "explanation": "NG suction causes hypokalemic, hypochloremic metabolic alkalosis, so potassium chloride is the appropriate replacement. Sodium bicarbonate would worsen the alkalosis."
+  },
+  {
+    "id": "CCRN16-044",
+    "prompt": "A patient with hepatic encephalopathy has confusion, asterixis, and cannot swallow safely. Which therapy should the nurse anticipate?",
+    "choices": {
+      "A": "Lactulose by a safe nonoral route",
+      "B": "Immediate benzodiazepine infusion",
+      "C": "Strict fluid restriction only",
+      "D": "Oral aspirin therapy"
+    },
+    "correct": "A",
+    "explanation": "Hepatic encephalopathy still requires ammonia-lowering therapy even when swallowing is unsafe. Immediate benzodiazepine infusion may worsen mental status and respiratory risk."
+  },
+  {
+    "id": "CCRN16-045",
+    "prompt": "A patient with severe acute kidney injury develops pulmonary edema, pH 7.15, bicarbonate 10 mEq/L, and worsening confusion despite medical therapy. What intervention should the nurse anticipate?",
+    "choices": {
+      "A": "Urgent renal replacement therapy",
+      "B": "Large crystalloid bolus",
+      "C": "Immediate catheter removal",
+      "D": "High-protein oral diet"
+    },
+    "correct": "A",
+    "explanation": "Severe AKI with pulmonary edema, acidosis, and worsening confusion despite medical therapy is an urgent dialysis indication. Large crystalloid bolus would worsen pulmonary edema."
+  },
+  {
+    "id": "CCRN16-046",
+    "prompt": "A patient with recurrent hypoglycemia from sulfonylurea ingestion continues to drop glucose despite repeated dextrose boluses. Which adjunct medication should the nurse anticipate?",
+    "choices": {
+      "A": "Octreotide",
+      "B": "Protamine sulfate",
+      "C": "Vitamin K",
+      "D": "Digoxin immune fab"
+    },
+    "correct": "A",
+    "explanation": "Sulfonylurea-related recurrent hypoglycemia persists because endogenous insulin release continues, and octreotide suppresses that process. Vitamin K has no role in recurrent hypoglycemia."
+  },
+  {
+    "id": "CCRN16-047",
+    "prompt": "A patient with severe renal failure received magnesium-containing medication and is now lethargic with BP 82/44 mm Hg, HR 38/min, and absent deep tendon reflexes. Which medication should the nurse expect first?",
+    "choices": {
+      "A": "IV calcium gluconate",
+      "B": "IV insulin",
+      "C": "Oral potassium chloride",
+      "D": "Metoprolol"
+    },
+    "correct": "A",
+    "explanation": "Severe hypermagnesemia causing bradycardia, hypotension, lethargy, and absent reflexes is treated acutely with IV calcium. IV insulin is used for hyperkalemia, not magnesium toxicity."
+  },
+  {
+    "id": "CCRN16-048",
+    "prompt": "A severely malnourished patient begins enteral feeding and then develops phosphorus 1.0 mg/dL, potassium 3.1 mEq/L, and worsening weakness. What is the priority nursing action?",
+    "choices": {
+      "A": "Replace electrolytes and notify the provider about possible refeeding syndrome",
+      "B": "Increase the feeding rate",
+      "C": "Stop all nutrition for two weeks",
+      "D": "Give only free water"
+    },
+    "correct": "A",
+    "explanation": "Severe hypophosphatemia and weakness after feeding initiation in a malnourished patient are classic for refeeding syndrome. Increase the feeding rate would worsen the electrolyte shifts."
+  },
+  {
+    "id": "CCRN16-049",
+    "prompt": "A patient with tense ascites is increasingly tachypneic when supine and reports early satiety. What nursing intervention is most appropriate?",
+    "choices": {
+      "A": "Keep the patient upright as much as tolerated",
+      "B": "Place the patient in Trendelenburg",
+      "C": "Encourage a large meal",
+      "D": "Restrict all repositioning"
+    },
+    "correct": "A",
+    "explanation": "Upright positioning improves diaphragmatic excursion and comfort in tense ascites. Place the patient in Trendelenburg would worsen breathing."
+  },
+  {
+    "id": "CCRN16-050",
+    "prompt": "A patient with a nephrostomy tube has sudden flank pain and no urine output from the tube. The tubing is visibly kinked beneath the patient. What should the nurse do first?",
+    "choices": {
+      "A": "Straighten the tubing and reassess output",
+      "B": "Remove the tube",
+      "C": "Clamp the tube for 4 hours",
+      "D": "Encourage the patient to lie on the affected side"
+    },
+    "correct": "A",
+    "explanation": "A visible nephrostomy tube kink is a simple reversible cause of obstruction and pain. Remove the tube is inappropriate before fixing the obvious mechanical issue."
+  },
+  {
+    "id": "CCRN16-051",
+    "prompt": "A patient with severe diarrhea and incontinence has painful erythematous denuded skin over the sacrum and perineum. What is the most appropriate nursing intervention?",
+    "choices": {
+      "A": "Moisture management and barrier skin protection",
+      "B": "Vigorous massage of the area",
+      "C": "Direct heat application",
+      "D": "Leaving stool in place to reduce friction"
+    },
+    "correct": "A",
+    "explanation": "Severe moisture-associated skin damage is best treated with cleansing, barrier protection, and moisture control. Vigorous massage worsens tissue injury."
+  },
+  {
+    "id": "CCRN16-052",
+    "prompt": "A patient with severe pancreatitis initially improves with fluids but later develops bibasilar crackles, rising oxygen needs, and worsening work of breathing. What is the priority nursing focus?",
+    "choices": {
+      "A": "Reassess fluid status and respiratory deterioration",
+      "B": "Continue the same fluid rate without reassessment",
+      "C": "Remove all oxygen support",
+      "D": "Encourage a high-fat meal"
+    },
+    "correct": "A",
+    "explanation": "New crackles and rising oxygen needs during pancreatitis resuscitation suggest fluid-related respiratory compromise. Continue the same fluid rate without reassessment ignores signs of harm."
+  },
+  {
+    "id": "CCRN16-053",
+    "prompt": "A patient with severe anemia, coronary disease, tachycardia, and rising lactate has hemoglobin 6.5 g/dL. Which therapy should the nurse anticipate?",
+    "choices": {
+      "A": "Packed red blood cell transfusion",
+      "B": "Oral iron only",
+      "C": "High-dose diuretics",
+      "D": "Immediate discharge planning"
+    },
+    "correct": "A",
+    "explanation": "Severe anemia with coronary disease and rising lactate indicates impaired oxygen delivery that transfusion can improve. Oral iron only is too slow for this acute problem."
+  },
+  {
+    "id": "CCRN16-054",
+    "prompt": "A patient with gross hematuria after bladder surgery has decreasing output from a three-way catheter and increasing suprapubic fullness. What is the best nursing action?",
+    "choices": {
+      "A": "Assess catheter patency and prepare for ordered irrigation",
+      "B": "Remove the catheter immediately",
+      "C": "Clamp the catheter for the shift",
+      "D": "Encourage straining to pass clots"
+    },
+    "correct": "A",
+    "explanation": "Falling three-way catheter output with suprapubic fullness suggests clot obstruction that needs patency assessment and likely irrigation. Clamp the catheter for the shift would worsen retention."
+  },
+  {
+    "id": "CCRN16-055",
+    "prompt": "A patient with severe renal dysfunction is still receiving full-dose renally cleared antibiotics ordered on admission. What is the most important nursing action?",
+    "choices": {
+      "A": "Notify the provider and pharmacist for dose reassessment",
+      "B": "Continue the regimen unchanged",
+      "C": "Stop daily chemistry monitoring",
+      "D": "Discontinue IV access"
+    },
+    "correct": "A",
+    "explanation": "Severe renal dysfunction changes drug clearance and requires prompt dose adjustment to avoid toxicity. Continue the regimen unchanged risks preventable harm."
+  },
+  {
+    "id": "CCRN16-056",
+    "prompt": "A patient with advanced cirrhosis has new sleep-wake reversal, increasing confusion, and hand flapping. What is the most accurate interpretation?",
+    "choices": {
+      "A": "Hepatic encephalopathy is worsening",
+      "B": "The patient is only sleep deprived",
+      "C": "Liver disease is unrelated to the mental status change",
+      "D": "The symptoms exclude liver-related causes"
+    },
+    "correct": "A",
+    "explanation": "Sleep-wake reversal, confusion, and asterixis in advanced cirrhosis are classic for hepatic encephalopathy. The patient is only sleep deprived does not explain the neurologic findings."
+  },
+  {
+    "id": "CCRN16-057",
+    "prompt": "A patient with tumor lysis syndrome has phosphorus 8.1 mg/dL, uric acid elevated, creatinine rising, and perioral tingling with muscle cramps. What electrolyte problem is most likely causing the neuromuscular symptoms?",
+    "choices": {
+      "A": "Hypocalcemia",
+      "B": "Hypernatremia",
+      "C": "Hypermagnesemia",
+      "D": "Hyperchloremia"
+    },
+    "correct": "A",
+    "explanation": "Tumor lysis syndrome often causes marked hyperphosphatemia that lowers calcium and produces tingling and muscle cramps. Hypermagnesemia is the tempting distractor for weakness, but it does not typically cause tetany-like symptoms."
+  },
+  {
+    "id": "CCRN16-058",
+    "prompt": "A patient with traumatic brain injury has ICP 27 mm Hg for 12 minutes despite head midline positioning and adequate sedation. MAP is 85 mm Hg. Which intervention should the nurse anticipate next?",
+    "choices": {
+      "A": "Hyperosmolar therapy",
+      "B": "Trendelenburg positioning",
+      "C": "Free-water bolus",
+      "D": "Immediate extubation"
+    },
+    "correct": "A",
+    "explanation": "Sustained intracranial hypertension despite initial measures requires escalation with hyperosmolar therapy. Trendelenburg positioning would worsen venous congestion and ICP."
+  },
+  {
+    "id": "CCRN16-059",
+    "prompt": "A patient with an external ventricular drain develops severe headache after turning. The drainage chamber is found well below the ordered height, and CSF output is much higher than earlier. What is the priority nursing action?",
+    "choices": {
+      "A": "Return the chamber to the ordered level and reassess",
+      "B": "Lower the chamber even farther",
+      "C": "Flush the drain with air",
+      "D": "Ignore the output because headache is expected"
+    },
+    "correct": "A",
+    "explanation": "An EVD chamber set too low can cause overdrainage and severe headache, so the level must be corrected immediately. Lower the chamber even farther would intensify the problem."
+  },
+  {
+    "id": "CCRN16-060",
+    "prompt": "A patient hospitalized for pneumonia suddenly develops aphasia and right arm weakness. Last-known-well time is 16 minutes ago. What is the best nursing action?",
+    "choices": {
+      "A": "Activate the stroke response immediately",
+      "B": "Wait to see if symptoms improve after oxygen",
+      "C": "Give oral aspirin before imaging",
+      "D": "Encourage rest and reassess later"
+    },
+    "correct": "A",
+    "explanation": "New focal neurologic deficits with a very recent last-known-well time require urgent stroke activation. Give oral aspirin before imaging is unsafe because hemorrhage has not been excluded."
+  },
+  {
+    "id": "CCRN16-061",
+    "prompt": "A patient with aneurysmal subarachnoid hemorrhage becomes progressively harder to arouse and develops bradycardia with repeated vomiting. What complication should the nurse suspect first?",
+    "choices": {
+      "A": "Rising intracranial pressure",
+      "B": "Medication-related nausea only",
+      "C": "Peripheral neuropathy",
+      "D": "Acute pancreatitis"
+    },
+    "correct": "A",
+    "explanation": "Reduced arousal, bradycardia, and vomiting after aneurysmal SAH strongly suggest increasing intracranial pressure. Medication-related nausea only does not explain the neurologic decline."
+  },
+  {
+    "id": "CCRN16-062",
+    "prompt": "A patient recovering from prolonged ventilation says, \"I had frightening memories that staff were hurting me.\" What is the most therapeutic nursing response?",
+    "choices": {
+      "A": "Validate the experience and provide calm reorientation",
+      "B": "Tell the patient that could not have happened and end the conversation",
+      "C": "Avoid discussing ICU memories",
+      "D": "Ask the family to argue with the patient about it"
+    },
+    "correct": "A",
+    "explanation": "Frightening ICU memories are common after delirium, and supportive validation helps recovery. Tell the patient that could not have happened and end the conversation is invalidating and unhelpful."
+  },
+  {
+    "id": "CCRN16-063",
+    "prompt": "A patient with severe cervical spinal cord injury has HR 40/min, BP 76/40 mm Hg, warm dry skin, and clear lungs. What is the most likely cause of shock?",
+    "choices": {
+      "A": "Neurogenic shock",
+      "B": "Left ventricular failure",
+      "C": "Massive hemothorax",
+      "D": "Pulmonary embolism"
+    },
+    "correct": "A",
+    "explanation": "Cervical spinal cord injury with bradycardia, hypotension, warm dry skin, and clear lungs is classic neurogenic shock. Massive hemothorax would usually produce tachycardia and respiratory findings."
+  },
+  {
+    "id": "CCRN16-064",
+    "prompt": "A patient with delirium is increasingly disorganized overnight. The room is bright at night, dark during the day, and the patient’s glasses and hearing aids are missing. Which intervention is most likely to help?",
+    "choices": {
+      "A": "Restore sensory aids and normalize day-night cues",
+      "B": "Increase benzodiazepine sedation",
+      "C": "Eliminate all daytime stimulation",
+      "D": "Stop family involvement entirely"
+    },
+    "correct": "A",
+    "explanation": "Missing glasses and hearing aids plus disrupted circadian cues are modifiable contributors to delirium. Increase benzodiazepine sedation often worsens delirium rather than treating its cause."
+  },
+  {
+    "id": "CCRN16-065",
+    "prompt": "A patient after prolonged critical illness cannot lift either leg from the bed and struggles during physical therapy despite adequate oxygenation. What complication is most likely?",
+    "choices": {
+      "A": "ICU-acquired weakness",
+      "B": "Large-vessel stroke",
+      "C": "Acute bacterial meningitis",
+      "D": "Posterior myocardial infarction"
+    },
+    "correct": "A",
+    "explanation": "Profound bilateral weakness after prolonged critical illness with difficulty in therapy is typical ICU-acquired weakness. Large-vessel stroke would be more focal."
+  },
+  {
+    "id": "CCRN16-066",
+    "prompt": "A patient with a large cerebellar infarction becomes more somnolent and begins vomiting repeatedly. What is the priority nursing action?",
+    "choices": {
+      "A": "Escalate urgently for neurologic reassessment and airway readiness",
+      "B": "Encourage oral hydration",
+      "C": "Delay action until family arrives",
+      "D": "Place the patient flat and leave the bedside"
+    },
+    "correct": "A",
+    "explanation": "A large cerebellar infarction can swell rapidly and threaten the brainstem and airway, so new somnolence and vomiting require urgent escalation. Delay action until family arrives is unsafe."
+  },
+  {
+    "id": "CCRN16-067",
+    "prompt": "A patient on continuous EEG after convulsive status epilepticus remains unresponsive but has evolving rhythmic discharges without visible tonic-clonic activity. What is the best interpretation?",
+    "choices": {
+      "A": "Nonconvulsive seizure activity may still be ongoing",
+      "B": "The patient is seizure free because no movement is seen",
+      "C": "EEG findings are irrelevant without convulsions",
+      "D": "The patient should be extubated immediately"
+    },
+    "correct": "A",
+    "explanation": "Evolving rhythmic EEG discharges after convulsive status can represent ongoing seizure burden even without visible motor activity. The patient is seizure free because no movement is seen is a dangerous misconception."
+  },
+  {
+    "id": "CCRN16-068",
+    "prompt": "A patient after decompressive craniectomy is preparing for out-of-bed mobility. What intervention is essential before transfer?",
+    "choices": {
+      "A": "Protect the unshielded cranial site per protocol",
+      "B": "Apply direct pressure over the soft cranial area",
+      "C": "Remove all head protection devices",
+      "D": "Lower the head below heart level"
+    },
+    "correct": "A",
+    "explanation": "After craniectomy, the absent bone flap leaves the brain vulnerable during mobility and transfers. Apply direct pressure over the soft cranial area risks direct injury."
+  },
+  {
+    "id": "CCRN16-069",
+    "prompt": "A patient after prolonged sedation becomes tachycardic, hypertensive, and tremulous during infusion weaning. Pain score and oxygenation are acceptable. What should the nurse suspect?",
+    "choices": {
+      "A": "Iatrogenic withdrawal",
+      "B": "Recovery from delirium",
+      "C": "Acute hemorrhagic stroke",
+      "D": "Pulmonary edema"
+    },
+    "correct": "A",
+    "explanation": "Tachycardia, hypertension, and tremor during sedative weaning strongly suggest withdrawal when pain and oxygenation are otherwise acceptable. Recovery from delirium does not usually cause this autonomic pattern."
+  },
+  {
+    "id": "CCRN16-070",
+    "prompt": "A patient with severe stroke fails a swallow screen after coughing with the first sip of water. What is the best nursing action?",
+    "choices": {
+      "A": "Keep the patient NPO and request formal swallow evaluation",
+      "B": "Continue oral medications with water",
+      "C": "Place the patient flat for meals",
+      "D": "Encourage faster swallowing"
+    },
+    "correct": "A",
+    "explanation": "Coughing with the first sip on swallow screening indicates aspiration risk and requires stopping oral intake. Continue oral medications with water is unsafe after a failed screen."
+  },
+  {
+    "id": "CCRN16-071",
+    "prompt": "A patient with diffuse axonal injury has MAP 62 mm Hg and ICP 21 mm Hg. Which statement is most accurate?",
+    "choices": {
+      "A": "Cerebral perfusion pressure is inadequate",
+      "B": "The ICP is reassuringly low",
+      "C": "MAP does not affect cerebral blood flow",
+      "D": "Lowering the head of the bed will solve the problem"
+    },
+    "correct": "A",
+    "explanation": "CPP equals MAP minus ICP, and 62 minus 21 gives 41 mm Hg, which is too low for severe brain injury. The ICP is reassuringly low ignores the inadequate MAP."
+  },
+  {
+    "id": "CCRN16-072",
+    "prompt": "A patient with meningitis develops a new unilateral dilated pupil and extensor posturing. What is the best nursing action?",
+    "choices": {
+      "A": "Escalate immediately for emergent evaluation",
+      "B": "Reassure the family because vital signs are stable",
+      "C": "Wait for the next routine neuro check",
+      "D": "Stop all monitoring to reduce stimulation"
+    },
+    "correct": "A",
+    "explanation": "A new dilated pupil and extensor posturing are ominous neurologic signs requiring urgent response. Wait for the next routine neuro check dangerously delays care."
+  },
+  {
+    "id": "CCRN16-073",
+    "prompt": "A patient with prolonged immobilization after trauma develops new foot drop with an otherwise unchanged central neurologic exam. What is the most likely cause?",
+    "choices": {
+      "A": "Peripheral nerve compression injury",
+      "B": "Large-vessel ischemic stroke",
+      "C": "Acute coronary syndrome",
+      "D": "Worsening meningitis"
+    },
+    "correct": "A",
+    "explanation": "New foot drop after prolonged immobilization with an otherwise unchanged central exam is most consistent with peripheral nerve compression. Large-vessel ischemic stroke would usually add other central deficits."
+  },
+  {
+    "id": "CCRN16-074",
+    "prompt": "A patient with severe brain injury becomes febrile to 39.1°C and begins shivering intensely. ICP rises during the episodes. What is the priority nursing concern?",
+    "choices": {
+      "A": "Cerebral metabolic demand is increasing",
+      "B": "Shivering is lowering intracranial pressure",
+      "C": "Temperature is unrelated to secondary brain injury",
+      "D": "Fever should be ignored if SpO2 is normal"
+    },
+    "correct": "A",
+    "explanation": "Fever and shivering increase oxygen consumption and can worsen secondary brain injury and ICP. Shivering is lowering intracranial pressure is false."
+  },
+  {
+    "id": "CCRN16-075",
+    "prompt": "A patient says after ICU delirium, \"I’m scared because some of those memories felt real.\" What is the most appropriate nursing response?",
+    "choices": {
+      "A": "Explain that frightening ICU memories can occur during critical illness",
+      "B": "Tell the patient those memories are false and unimportant",
+      "C": "Avoid discussing the experience",
+      "D": "Ask the family to correct the patient firmly"
+    },
+    "correct": "A",
+    "explanation": "This normalizes a common post-ICU experience and supports psychological recovery. Tell the patient those memories are false and unimportant is dismissive."
+  },
+  {
+    "id": "CCRN16-076",
+    "prompt": "A patient with acute ischemic stroke has salvageable tissue on advanced imaging despite uncertain onset time. Which intervention should the nurse anticipate?",
+    "choices": {
+      "A": "Endovascular thrombectomy evaluation",
+      "B": "Delay all treatment until tomorrow",
+      "C": "Immediate oral feeding",
+      "D": "Discharge planning"
+    },
+    "correct": "A",
+    "explanation": "Salvageable tissue on advanced imaging supports thrombectomy evaluation despite uncertain onset time. Delay all treatment until tomorrow would waste a time-sensitive opportunity."
+  },
+  {
+    "id": "CCRN16-077",
+    "prompt": "A patient with an external ventricular drain has no CSF output for 2 hours, worsening headache, and a dampened waveform. The stopcock is found in the wrong position. What should the nurse do first?",
+    "choices": {
+      "A": "Correct the stopcock position and reassess drainage",
+      "B": "Flush the drain with tap water",
+      "C": "Lower the chamber to the floor",
+      "D": "Remove the drain"
+    },
+    "correct": "A",
+    "explanation": "Incorrect stopcock position is a reversible cause of absent drainage and worsening headache, so it should be corrected first. Flush the drain with tap water is unsafe and inappropriate."
+  },
+  {
+    "id": "CCRN16-078",
+    "prompt": "A patient with Guillain-Barr� syndrome is not intubated but has falling vital capacity and weaker cough on serial checks. What is the most important nursing concern?",
+    "choices": {
+      "A": "Impending respiratory failure",
+      "B": "Stable mild weakness only",
+      "C": "Resolution of the disease process",
+      "D": "Acute myocardial infarction"
+    },
+    "correct": "A",
+    "explanation": "Falling vital capacity and weaker cough are major warning signs of progressive respiratory compromise in Guillain-Barr� syndrome. Stable mild weakness only understates the seriousness of the trend."
+  },
+  {
+    "id": "CCRN16-079",
+    "prompt": "A patient recovering from severe sepsis says, \"I feel weak and anxious that I will never recover.\" What is the best nursing response?",
+    "choices": {
+      "A": "Acknowledge the concern and support gradual rehabilitation",
+      "B": "Promise complete recovery in 24 hours",
+      "C": "Avoid discussing the weakness",
+      "D": "Keep the patient on complete bed rest indefinitely"
+    },
+    "correct": "A",
+    "explanation": "This validates the patient’s fear while encouraging realistic recovery after critical illness. Promise complete recovery in 24 hours is false reassurance."
+  },
+  {
+    "id": "CCRN16-080",
+    "prompt": "A patient remains awake all night because of frequent nonurgent interruptions, bright lights, and noise. The patient is now CAM-ICU positive. Which intervention is most appropriate?",
+    "choices": {
+      "A": "Cluster care and reduce nighttime stimulation",
+      "B": "Increase overnight interruptions for closer observation",
+      "C": "Keep the room brightly lit all night",
+      "D": "Eliminate all daytime family visitation"
+    },
+    "correct": "A",
+    "explanation": "Delirium worsens with sleep fragmentation from lights, noise, and repeated interruptions, so reducing those is appropriate. Increase overnight interruptions for closer observation would intensify the problem."
+  },
+  {
+    "id": "CCRN16-081",
+    "prompt": "A patient with septic shock remains hypotensive after initial fluid resuscitation. MAP is 54 mm Hg, lactate 5.0 mmol/L, and urine output is minimal. What is the best next action?",
+    "choices": {
+      "A": "Start norepinephrine",
+      "B": "Wait for final culture results",
+      "C": "Give oral antihypertensives",
+      "D": "Begin enteral feeding"
+    },
+    "correct": "A",
+    "explanation": "Septic shock with persistent hypotension, elevated lactate, and minimal urine output after fluids requires first-line vasopressor support. Wait for final culture results delays lifesaving treatment."
+  },
+  {
+    "id": "CCRN16-082",
+    "prompt": "A patient with intra-abdominal sepsis remains febrile and on vasopressors despite broad-spectrum antibiotics. Imaging now shows a large undrained abscess. What is the priority next step?",
+    "choices": {
+      "A": "Source control",
+      "B": "Stop all antibiotics",
+      "C": "Delay intervention until the WBC normalizes",
+      "D": "Encourage unmonitored ambulation"
+    },
+    "correct": "A",
+    "explanation": "Persistent septic shock with a documented undrained abscess requires definitive drainage or procedural control in addition to antibiotics. Delay intervention until the WBC normalizes misses the cause of ongoing shock."
+  },
+  {
+    "id": "CCRN16-083",
+    "prompt": "A postpartum patient 1 hour after delivery has saturating vaginal bleeding, a boggy uterus, BP 78/42 mm Hg, HR 134/min, and worsening pallor. What is the priority nursing action?",
+    "choices": {
+      "A": "Activate the obstetric hemorrhage response and escalate immediately",
+      "B": "Wait for the next CBC before acting",
+      "C": "Encourage oral fluid intake",
+      "D": "Place the patient in Trendelenburg and observe"
+    },
+    "correct": "A",
+    "explanation": "Saturating vaginal bleeding with a boggy uterus, profound hypotension, and tachycardia indicates postpartum hemorrhagic shock and requires immediate hemorrhage response activation. Wait for the next CBC before acting delays treatment of a time-critical emergency."
+  },
+  {
+    "id": "CCRN16-084",
+    "prompt": "A patient with severe sepsis has MAP 66 mm Hg on norepinephrine, but capillary refill is prolonged, skin is mottled, and lactate continues to rise. What is the best interpretation?",
+    "choices": {
+      "A": "Tissue perfusion remains inadequate",
+      "B": "Shock is resolved because MAP is above 65",
+      "C": "Lactate is no longer useful after vasopressors start",
+      "D": "Skin findings are unrelated to perfusion"
+    },
+    "correct": "A",
+    "explanation": "Prolonged capillary refill, mottling, and rising lactate show persistent shock despite MAP above 65 mm Hg. Shock is resolved because MAP is above 65 focuses too narrowly on one number."
+  },
+  {
+    "id": "CCRN16-085",
+    "prompt": "A patient with blunt abdominal trauma remains tachycardic and hypotensive after initial transfusion. The abdomen is increasingly distended, and mental status is worsening. What is the priority nursing concern?",
+    "choices": {
+      "A": "Ongoing hemorrhagic shock",
+      "B": "Benign anxiety",
+      "C": "Resolution of blood loss",
+      "D": "Acute pancreatitis"
+    },
+    "correct": "A",
+    "explanation": "Persistent tachycardia, hypotension, abdominal distention, and worsening mental status after blunt trauma strongly suggest continued internal bleeding. Resolution of blood loss is inconsistent with ongoing instability."
+  },
+  {
+    "id": "CCRN16-086",
+    "prompt": "A patient with opioid overdose awakens after naloxone but becomes bradypneic again 20 minutes later with ETCO2 rising. What is the best next step?",
+    "choices": {
+      "A": "Continue respiratory monitoring and anticipate repeat naloxone therapy",
+      "B": "Stop capnography because the patient awakened once",
+      "C": "Encourage ambulation",
+      "D": "Remove oxygen and discharge from ICU"
+    },
+    "correct": "A",
+    "explanation": "Naloxone may wear off before the opioid does, so recurrent bradypnea and rising ETCO2 require ongoing monitoring and likely repeat reversal. Stop capnography because the patient awakened once removes a key warning tool."
+  },
+  {
+    "id": "CCRN16-087",
+    "prompt": "A patient with ingestion of antifreeze has severe metabolic acidosis, an elevated osmolar gap, and visual complaints. Which medication should the nurse anticipate?",
+    "choices": {
+      "A": "Fomepizole",
+      "B": "Protamine sulfate",
+      "C": "Vitamin K",
+      "D": "Digoxin immune fab"
+    },
+    "correct": "A",
+    "explanation": "Antifreeze ingestion with high anion gap metabolic acidosis, osmolar gap, and visual complaints is classic for toxic alcohol poisoning and is treated with fomepizole. Protamine sulfate has no role in this toxidrome."
+  },
+  {
+    "id": "CCRN16-088",
+    "prompt": "A patient with fever, purpuric lesions, hypotension, and rapidly worsening mental status arrives from the ED. What is the priority nursing action?",
+    "choices": {
+      "A": "Initiate urgent sepsis management and escalation",
+      "B": "Delay antibiotics until definitive culture results return",
+      "C": "Place the patient on room air and reassess later",
+      "D": "Encourage oral hydration only"
+    },
+    "correct": "A",
+    "explanation": "Fever, purpuric lesions, hypotension, and worsening mental status suggest fulminant sepsis and require immediate sepsis treatment and escalation. Delay antibiotics until definitive culture results return is unsafe and outdated."
+  },
+  {
+    "id": "CCRN16-089",
+    "prompt": "A patient with crush injury has dark urine, rising potassium, and metabolic acidosis. What complication should the nurse suspect?",
+    "choices": {
+      "A": "Rhabdomyolysis",
+      "B": "Stable dehydration only",
+      "C": "Acute ischemic stroke",
+      "D": "Thyroid storm"
+    },
+    "correct": "A",
+    "explanation": "Crush injury with dark urine, hyperkalemia, and metabolic acidosis is classic for rhabdomyolysis. Stable dehydration only does not explain the metabolic pattern."
+  },
+  {
+    "id": "CCRN16-090",
+    "prompt": "A patient with severe shock develops abdominal distention, bladder pressure 24 mm Hg, oliguria, and rising ventilator pressures. What is the priority nursing concern?",
+    "choices": {
+      "A": "Abdominal compartment syndrome",
+      "B": "Mild constipation only",
+      "C": "Stable ileus without organ dysfunction",
+      "D": "Resolution of shock"
+    },
+    "correct": "A",
+    "explanation": "Abdominal distention, high bladder pressure, oliguria, and rising ventilator pressures indicate abdominal compartment syndrome with organ dysfunction. Stable ileus without organ dysfunction does not fit the findings."
+  },
+  {
+    "id": "CCRN16-091",
+    "prompt": "A patient after bowel surgery develops fever, hypotension, abdominal pain, and foul-smelling drain output. What complication should the nurse suspect?",
+    "choices": {
+      "A": "Anastomotic leak with intra-abdominal sepsis",
+      "B": "Routine postoperative discomfort",
+      "C": "Mild constipation",
+      "D": "Stable dehydration only"
+    },
+    "correct": "A",
+    "explanation": "Fever, hypotension, abdominal pain, and foul drain output after bowel surgery strongly suggest leak with sepsis. Routine postoperative discomfort would not explain the systemic deterioration."
+  },
+  {
+    "id": "CCRN16-092",
+    "prompt": "A patient with septic shock has cool mottled extremities, decreasing urine output, and escalating vasopressor needs despite fluids and antibiotics. What is the best nursing focus?",
+    "choices": {
+      "A": "Ongoing reassessment of perfusion and treatment response",
+      "B": "Stop all urine output measurement",
+      "C": "Remove all invasive lines immediately",
+      "D": "Discontinue vasopressors because mottling is expected"
+    },
+    "correct": "A",
+    "explanation": "Cool mottled extremities, worsening urine output, and escalating vasopressor need indicate persistent shock requiring serial reassessment. Stop all urine output measurement removes a key perfusion endpoint."
+  },
+  {
+    "id": "CCRN16-093",
+    "prompt": "A patient with multiple long-bone fractures becomes suddenly hypoxemic and confused 18 hours after injury. Petechiae are absent, but respiratory distress is worsening. What is the most appropriate nursing action?",
+    "choices": {
+      "A": "Escalate urgently for evaluation of acute deterioration",
+      "B": "Delay assessment because petechiae are absent",
+      "C": "Encourage unmonitored ambulation",
+      "D": "Give a routine stool softener"
+    },
+    "correct": "A",
+    "explanation": "Sudden hypoxemia and confusion after multiple long-bone fractures raise concern for fat embolism syndrome or another serious complication and warrant urgent reassessment. Delay assessment because petechiae are absent is unsafe because petechiae may be absent."
+  },
+  {
+    "id": "CCRN16-094",
+    "prompt": "A patient with major trauma becomes hypothermic to 34.5°C during ongoing transfusion, and bleeding continues. What is the priority nursing concern?",
+    "choices": {
+      "A": "Hypothermia is worsening coagulopathy",
+      "B": "Cooling improves hemostasis in trauma",
+      "C": "Temperature is unrelated to bleeding",
+      "D": "Rewarming should be avoided"
+    },
+    "correct": "A",
+    "explanation": "Trauma hypothermia impairs clotting and contributes to continued bleeding. Cooling improves hemostasis in trauma is incorrect."
+  },
+  {
+    "id": "CCRN16-095",
+    "prompt": "A patient with severe smoke exposure becomes confused and tachycardic, but pulse oximetry remains 100% on supplemental oxygen. What toxic exposure should the nurse consider?",
+    "choices": {
+      "A": "Carbon monoxide poisoning",
+      "B": "Hypercalcemia",
+      "C": "Digoxin toxicity",
+      "D": "Hypoglycemia"
+    },
+    "correct": "A",
+    "explanation": "Smoke exposure with confusion and normal pulse oximetry should prompt suspicion for carbon monoxide poisoning because oximetry can be misleading. Hypercalcemia is unrelated to the exposure context."
+  },
+  {
+    "id": "CCRN16-096",
+    "prompt": "A patient with septic shock loses all IV access, and antibiotics plus vasopressors are interrupted. What is the priority nursing action?",
+    "choices": {
+      "A": "Escalate immediately to obtain reliable vascular access",
+      "B": "Wait until the next scheduled medication time",
+      "C": "Stop all monitoring until access is reestablished",
+      "D": "Encourage oral hydration instead"
+    },
+    "correct": "A",
+    "explanation": "Antibiotics and vasopressors cannot safely be interrupted in septic shock, so rapid restoration of access is essential. Wait until the next scheduled medication time is unsafe."
+  },
+  {
+    "id": "CCRN16-097",
+    "prompt": "A patient develops severe abdominal pain out of proportion to examination, metabolic acidosis, and rising lactate after several hours of atrial fibrillation with rapid ventricular response. What is the priority nursing action?",
+    "choices": {
+      "A": "Notify the provider urgently about possible mesenteric ischemia",
+      "B": "Give a routine laxative and observe",
+      "C": "Encourage oral intake",
+      "D": "Delay action until bowel sounds are reassessed later"
+    },
+    "correct": "A",
+    "explanation": "Severe pain out of proportion, metabolic acidosis, and rising lactate after prolonged atrial fibrillation strongly suggest mesenteric ischemia. Give a routine laxative and observe dangerously delays evaluation of a bowel-threatening emergency."
+  },
+  {
+    "id": "CCRN16-098",
+    "prompt": "A patient with severe infection remains on vasopressors, and imaging shows an enlarging undrained fluid collection. Which finding most strongly supports poor source control?",
+    "choices": {
+      "A": "Persistent fever with expanding collection on imaging",
+      "B": "Mild hunger before dinner",
+      "C": "Stable skin temperature",
+      "D": "Improved urine output"
+    },
+    "correct": "A",
+    "explanation": "Ongoing fever plus an enlarging undrained collection strongly supports poor source control. Improved urine output alone does not resolve concern about uncontrolled infection."
+  },
+  {
+    "id": "CCRN16-099",
+    "prompt": "A patient 6 hours after thyroid surgery develops neck swelling, stridor, anxiety, and rapidly worsening dyspnea. What is the priority nursing action?",
+    "choices": {
+      "A": "Escalate immediately for airway emergency management",
+      "B": "Encourage the patient to sip water",
+      "C": "Place the patient flat and observe",
+      "D": "Delay action until the surgeon arrives for rounds"
+    },
+    "correct": "A",
+    "explanation": "Neck swelling with stridor and rapidly worsening dyspnea after thyroid surgery signals an airway emergency from likely compressive hematoma or edema. Encourage the patient to sip water does nothing to secure the airway."
+  },
+  {
+    "id": "CCRN16-100",
+    "prompt": "A patient in septic shock had antibiotics delayed during transfer because a pump was unavailable. After stabilization, what is the most appropriate systems-based nursing action?",
+    "choices": {
+      "A": "Report the delay and examine process failures",
+      "B": "Ignore the delay because the patient survived",
+      "C": "Delete documentation of the delay",
+      "D": "Tell staff not to discuss the event"
+    },
+    "correct": "A",
+    "explanation": "Delayed antibiotics in septic shock are a systems issue and should be reviewed after stabilization to prevent recurrence. Ignore the delay because the patient survived misses a key quality-improvement opportunity."
+  },
+  {
+    "id": "CCRN16-101",
+    "prompt": "A family says they are receiving different answers from different teams about the plan of care. What is the best nursing response?",
+    "choices": {
+      "A": "Help coordinate a structured interdisciplinary update",
+      "B": "Tell them to ignore all but one team",
+      "C": "Avoid the conversation",
+      "D": "Ask the family to choose the plan themselves"
+    },
+    "correct": "A",
+    "explanation": "When multiple teams provide inconsistent plans, the nurse should help organize a clear coordinated update. Tell them to ignore all but one team does not solve the inconsistency."
+  },
+  {
+    "id": "CCRN16-102",
+    "prompt": "A patient with limited English proficiency is awake and asking questions about an urgent procedure. The only bilingual person available is the patient’s adult child. What is the best nursing action?",
+    "choices": {
+      "A": "Use qualified interpreter services for the discussion",
+      "B": "Have the child interpret the consent discussion alone",
+      "C": "Proceed without explanation to save time",
+      "D": "Delay all care indefinitely"
+    },
+    "correct": "A",
+    "explanation": "Important clinical discussion and consent should use qualified interpreters for accuracy and neutrality. Have the child interpret the consent discussion alone is not best practice."
+  },
+  {
+    "id": "CCRN16-103",
+    "prompt": "A competent patient says, \"Do not tell my estranged relatives anything about my condition.\" Later, those relatives call the ICU for updates. What is the best nursing response?",
+    "choices": {
+      "A": "Protect the patient’s confidentiality and follow the stated wishes",
+      "B": "Give a partial update to reduce conflict",
+      "C": "Share information if they sound upset",
+      "D": "Read recent notes over the phone"
+    },
+    "correct": "A",
+    "explanation": "A competent patient’s expressed wishes about disclosure must guide communication. Give a partial update to reduce conflict still violates confidentiality."
+  },
+  {
+    "id": "CCRN16-104",
+    "prompt": "A patient requests a brief bedside cultural ritual that does not interfere with urgent treatment. What is the most appropriate nursing response?",
+    "choices": {
+      "A": "Accommodate the ritual safely if possible",
+      "B": "Refuse all nonmedical requests automatically",
+      "C": "Remove the family from the room",
+      "D": "Ignore the request because it is not part of ICU care"
+    },
+    "correct": "A",
+    "explanation": "Safe cultural and spiritual practices should be supported when they do not interfere with urgent care. Refuse all nonmedical requests automatically is unnecessarily rigid and dismissive."
+  },
+  {
+    "id": "CCRN16-105",
+    "prompt": "A bedside nurse believes a provider order may worsen hypotension, but the provider dismisses the concern without reviewing current hemodynamic data. What is the best next step?",
+    "choices": {
+      "A": "Escalate the concern through the chain of command",
+      "B": "Carry out the order without question",
+      "C": "Delete the order from the chart independently",
+      "D": "Ask the family to overrule the provider"
+    },
+    "correct": "A",
+    "explanation": "When a provider dismisses a credible bedside safety concern, escalation is appropriate to protect the patient. Carry out the order without question abandons the nurse’s advocacy role."
+  },
+  {
+    "id": "CCRN16-106",
+    "prompt": "A patient with severe obesity needs repositioning, but only two staff members are present and no lift equipment is available. What is the safest nursing action?",
+    "choices": {
+      "A": "Delay the move until adequate staff and equipment are ready",
+      "B": "Move the patient immediately anyway",
+      "C": "Ask one family member to assist",
+      "D": "Lower the bed rails and slide the patient down"
+    },
+    "correct": "A",
+    "explanation": "Safe repositioning of a patient with severe obesity requires enough trained staff and proper equipment. Move the patient immediately anyway risks injury to both patient and staff."
+  },
+  {
+    "id": "CCRN16-107",
+    "prompt": "A patient states, \"I do not accept blood products for religious reasons.\" Hemoglobin is falling, and surgery may be needed. What is the nurse’s best response?",
+    "choices": {
+      "A": "Notify the team and advocate for discussion of acceptable alternatives",
+      "B": "Tell the patient refusal is not allowed",
+      "C": "Prepare blood secretly in case of emergency",
+      "D": "Avoid charting the discussion"
+    },
+    "correct": "A",
+    "explanation": "A competent patient’s refusal of blood products must be respected, and alternatives should be explored promptly. Tell the patient refusal is not allowed violates autonomy."
+  },
+  {
+    "id": "CCRN16-108",
+    "prompt": "A family becomes increasingly hostile at the bedside while disagreeing about major treatment decisions for an incapacitated patient. What is the most appropriate nursing action?",
+    "choices": {
+      "A": "Maintain safety and request interdisciplinary support",
+      "B": "Let the loudest family member decide immediately",
+      "C": "End all communication with the family permanently",
+      "D": "Ask security to make medical decisions"
+    },
+    "correct": "A",
+    "explanation": "Escalating hostile family conflict requires immediate safety management and coordinated team support. Let the loudest family member decide immediately is neither ethical nor orderly."
+  },
+  {
+    "id": "CCRN16-109",
+    "prompt": "A patient with a tracheostomy is awake, clearly distressed, and has no accessible communication method. What is the best nursing action?",
+    "choices": {
+      "A": "Provide an immediate communication tool",
+      "B": "Sedate the patient to reduce frustration",
+      "C": "Tell the patient to wait until rounds",
+      "D": "Leave the room to decrease stimulation"
+    },
+    "correct": "A",
+    "explanation": "An awake tracheostomy patient needs a reliable way to communicate distress and needs, which is both a safety and dignity issue. Sedate the patient to reduce frustration avoids rather than solves the problem."
+  },
+  {
+    "id": "CCRN16-110",
+    "prompt": "A patient and family request a goals-of-care meeting because the patient is suffering and uncertain about continuing aggressive treatment. What is the best nursing response?",
+    "choices": {
+      "A": "Help coordinate a timely interdisciplinary meeting",
+      "B": "Tell them only the family can decide later",
+      "C": "Avoid the conversation",
+      "D": "Say this issue cannot be discussed in the ICU"
+    },
+    "correct": "A",
+    "explanation": "Uncertainty about continuing aggressive treatment should prompt a structured goals-of-care discussion with the right team. Avoid the conversation leaves the patient and family unsupported."
+  },
+  {
+    "id": "CCRN16-111",
+    "prompt": "A novice nurse nearly administers the wrong vasopressor concentration but catches the error before it reaches the patient. What is the most appropriate response from the charge nurse?",
+    "choices": {
+      "A": "Support reporting and learning in a just-culture framework",
+      "B": "Instruct the nurse to keep quiet about the near-miss",
+      "C": "Publicly shame the nurse at shift change",
+      "D": "Remove the nurse from all future ICU care immediately"
+    },
+    "correct": "A",
+    "explanation": "A near-miss with a vasopressor concentration is important safety information and should be used for learning in a supportive culture. Instruct the nurse to keep quiet about the near-miss undermines safety culture."
+  },
+  {
+    "id": "CCRN16-112",
+    "prompt": "A family meeting is filled with jargon, and the family appears confused even though they nod. What is the best nursing action?",
+    "choices": {
+      "A": "Ask the team to restate the information in plain language and confirm understanding",
+      "B": "Assume nodding means full comprehension",
+      "C": "End the meeting abruptly",
+      "D": "Tell the family to search online later"
+    },
+    "correct": "A",
+    "explanation": "Families need understandable explanations, and the nurse should advocate for clarity and verify comprehension. Assume nodding means full comprehension is a common but unsafe mistake."
+  },
+  {
+    "id": "CCRN16-113",
+    "prompt": "A patient with hearing impairment becomes more anxious after hearing aids are lost during transfer. What is the most appropriate nursing action?",
+    "choices": {
+      "A": "Prioritize restoration of hearing support and communication",
+      "B": "Assume the anxiety is unrelated",
+      "C": "Stop reorientation attempts",
+      "D": "Avoid speaking until the devices are found"
+    },
+    "correct": "A",
+    "explanation": "Hearing impairment worsens anxiety and delirium risk, so restoring communication is important. Avoid speaking until the devices are found withholds helpful reorientation and support."
+  },
+  {
+    "id": "CCRN16-114",
+    "prompt": "A mechanically ventilated patient has repeated discrepancies between the sedation goal and the sedation delivered across shifts. What is the best leadership action?",
+    "choices": {
+      "A": "Reinforce the agreed sedation target and address inconsistency directly",
+      "B": "Ignore the issue because each nurse has a personal style",
+      "C": "Remove all sedation orders",
+      "D": "Ask the family to titrate the infusion"
+    },
+    "correct": "A",
+    "explanation": "Consistent evidence-based sedation practice is a leadership responsibility and should be corrected when shifts drift from the plan. Ignore the issue because each nurse has a personal style allows avoidable practice variation."
+  },
+  {
+    "id": "CCRN16-115",
+    "prompt": "A patient in police custody requests privacy during hygiene care, and the officer is standing directly at the bedside. What is the most appropriate nursing action?",
+    "choices": {
+      "A": "Advocate for the least intrusive security presence that still maintains safety",
+      "B": "Tell the patient privacy is impossible",
+      "C": "Cancel hygiene care entirely",
+      "D": "Ask the family to negotiate with the officer"
+    },
+    "correct": "A",
+    "explanation": "Even patients in custody deserve as much privacy and dignity as can safely be provided. Tell the patient privacy is impossible is unnecessarily absolute and dismissive."
+  },
+  {
+    "id": "CCRN16-116",
+    "prompt": "A patient with decision-making capacity says, \"I want to discuss stopping dialysis without my family in the room.\" What is the best nursing response?",
+    "choices": {
+      "A": "Honor the request and notify the team",
+      "B": "Tell the patient the family must decide",
+      "C": "Refuse privacy because the ICU is busy",
+      "D": "Delay the conversation until discharge"
+    },
+    "correct": "A",
+    "explanation": "A patient with capacity may request a private discussion about stopping dialysis, and that request should be respected. Tell the patient the family must decide improperly overrides the patient’s autonomy."
+  },
+  {
+    "id": "CCRN16-117",
+    "prompt": "A patient asks, \"What would comfort-focused care mean for me right now?\" What is the best nursing response?",
+    "choices": {
+      "A": "Explore the question and involve the appropriate team members promptly",
+      "B": "Tell the patient only the physician can talk about that",
+      "C": "Refuse the discussion because it is too sensitive",
+      "D": "Say it means immediate discharge home"
+    },
+    "correct": "A",
+    "explanation": "When a patient asks about comfort-focused care, the nurse should respond openly and involve the clinicians who can continue the discussion. Refuse the discussion because it is too sensitive abandons an important patient concern."
+  },
+  {
+    "id": "CCRN16-118",
+    "prompt": "A bedside nurse reports new unilateral weakness, but the covering provider says the patient is probably tired. What should the nurse do next?",
+    "choices": {
+      "A": "Reassert the concern and escalate for urgent evaluation",
+      "B": "Wait until the next shift",
+      "C": "Reassure the family that nothing is wrong",
+      "D": "Remove neuro checks from the care plan"
+    },
+    "correct": "A",
+    "explanation": "New unilateral weakness is a potential neurologic emergency and should be escalated if dismissed. Wait until the next shift risks missing a time-sensitive event."
+  },
+  {
+    "id": "CCRN16-119",
+    "prompt": "A patient’s same-sex spouse arrives, but another relative demands to be recognized as the primary decision-maker instead. The chart documents the spouse as surrogate. What is the best nursing action?",
+    "choices": {
+      "A": "Respect the patient’s documented surrogate choice",
+      "B": "Follow the relative’s demand to avoid conflict",
+      "C": "Exclude everyone from the room",
+      "D": "Ask staff members to vote on the issue"
+    },
+    "correct": "A",
+    "explanation": "The documented surrogate should be honored regardless of another relative’s objection. Follow the relative’s demand to avoid conflict would violate the patient’s wishes."
+  },
+  {
+    "id": "CCRN16-120",
+    "prompt": "A unit has repeated overnight delays in obtaining interpreter services for urgent conversations. What is the best systems-focused nursing action?",
+    "choices": {
+      "A": "Escalate the recurring barrier through leadership channels",
+      "B": "Accept the delay as unavoidable",
+      "C": "Rely on visitors for all interpretation",
+      "D": "Avoid caring for limited-English-proficiency patients overnight"
+    },
+    "correct": "A",
+    "explanation": "Repeated interpreter delays are a systems problem that requires leadership action and process improvement. Rely on visitors for all interpretation is not a safe long-term solution."
+  },
+  {
+    "id": "CCRN16-121",
+    "prompt": "A restrained patient’s family says, \"You are doing this because it is easier for staff.\" What is the best nursing response?",
+    "choices": {
+      "A": "Explain the indication, alternatives tried, and reassessment plan",
+      "B": "Tell the family restraints are none of their business",
+      "C": "Promise restraints will remain until discharge",
+      "D": "Remove the restraints immediately without assessing safety"
+    },
+    "correct": "A",
+    "explanation": "Families deserve a clear explanation that restraints are being used for safety after alternatives were attempted and that reassessment is ongoing. Promise restraints will remain until discharge is inaccurate and not patient centered."
+  },
+  {
+    "id": "CCRN16-122",
+    "prompt": "A patient recovering from critical illness says the room feels frightening at night and asks for help reducing interruptions. What is the best nursing action?",
+    "choices": {
+      "A": "Cluster nonurgent nighttime care and reduce stimulation",
+      "B": "Continue waking the patient for routine tasks",
+      "C": "Keep the room brightly lit all night",
+      "D": "Stop all daytime family visits"
+    },
+    "correct": "A",
+    "explanation": "Fear and sleep disruption after critical illness are best addressed by reducing avoidable nighttime interruptions and stimulation. Continue waking the patient for routine tasks would worsen the problem."
+  },
+  {
+    "id": "CCRN16-123",
+    "prompt": "A patient with a trauma history becomes distressed during a routine procedure and says, \"Please tell me before you touch me.\" What is the most appropriate nursing response?",
+    "choices": {
+      "A": "Use a trauma-informed approach and explain each step before proceeding",
+      "B": "Proceed quickly without further discussion",
+      "C": "Tell the patient the request is unreasonable",
+      "D": "Ask the family to restrain the patient"
+    },
+    "correct": "A",
+    "explanation": "Trauma-informed care emphasizes predictability, consent, and control during procedures. Proceed quickly without further discussion ignores the patient’s expressed need and may intensify distress."
+  },
+  {
+    "id": "CCRN16-124",
+    "prompt": "A family living far away asks for regular video calls with a patient who previously said those calls were comforting. What is the best nursing response?",
+    "choices": {
+      "A": "Facilitate the calls when clinically feasible",
+      "B": "Deny the request because technology is inappropriate in the ICU",
+      "C": "Tell the family to wait until discharge",
+      "D": "Promise calls regardless of the patient’s condition or wishes"
+    },
+    "correct": "A",
+    "explanation": "If the patient previously found video calls comforting, supporting them when medically appropriate is a reasonable family-centered intervention. Promise calls regardless of the patient’s condition or wishes is too absolute and may become inappropriate."
+  },
+  {
+    "id": "CCRN16-125",
+    "prompt": "A family says handoffs between teams have been confusing and they often do not know the daily plan. After addressing the immediate concern, what is the best professional action?",
+    "choices": {
+      "A": "Share the feedback through the unit’s improvement process",
+      "B": "Ignore the feedback because the patient is still hospitalized",
+      "C": "Ask the family not to mention it again",
+      "D": "Remove all handoff tools from the unit"
+    },
+    "correct": "A",
+    "explanation": "Confusing handoffs are a systems issue, and family feedback should be used to improve communication and care transitions. Ignore the feedback because the patient is still hospitalized misses an opportunity to improve care."
+  }
+]
